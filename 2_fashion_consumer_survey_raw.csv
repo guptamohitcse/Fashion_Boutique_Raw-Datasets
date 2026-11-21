@@ -1,0 +1,936 @@
+Timestamp,Respondent ID,Age,Gender,City,Occupation,Monthly Fashion Budget,Preferred Styles,Favourite Colours,Main Shopping Platform,Biggest Influence,Purchases Per Year,Sustainability Importance (1-5),Would Pay More For Sustainable?
+05/08/2025 13:36:27,R2849,43,Female,Lucknow,Entrepreneur,2000,Formal,"Pastels, Red, White",Local market,Celebrities,14,5,Y
+08/08/2025 9:16:29,R2047,38,Prefer not to say,pune,Student,₹8000,"Athleisure, Y2K, Boho",White,Amazon,Magazines,17,4,Yes
+31/08/2025 20:15:31,R2784,33,Male,Patna,Working professional,15k,"Minimalist, Streetwear, Athleisure",Denim blue,Instagram shops,Instagram,24,4,No
+17/09/2025 21:46:47,R2153,30,Non-binary,Pune,Student,15000,"Formal, Boho, Vintage","White, Black",Ajio,Friends,4,1,Maybe
+03/08/2025 12:41:36,R2138,40,Prefer not to say,Kolkata,Homemaker,5k,"Y2K, Athleisure, Formal","Neon, Pastels, Red",Myntra,Celebrities,17,4,yes
+25/08/2025 10:55:50,R2496,19,Male,PATNA,Homemaker,10000,"Formal, Y2K","Pastels, Black",Instagram shops,Instagram,13,3,Maybe
+12/09/2025 21:46:28,R2063,19,Male,Patna,Student,2000,"Vintage, Formal, Streetwear","Pastels, Denim blue, Black",Local market,Instagram,4,4,No
+08/09/2025 12:31:18,R2102,29,Prefer not to say,Lucknow,Student,15000-16000,"Athleisure, Vintage","Neon, Red, White",Local market,Pinterest,18,,No
+16/08/2025 8:25:51,R2409,32,Prefer not to say,Pune,Student,3000,"Ethnic, Athleisure",Denim blue,Brand store,Pinterest,19,5,yes
+28/09/2025 8:37:21,R2894,43,M,Kolkata,Entrepreneur,10000,"Vintage, Ethnic",Black,Meesho,Street style,3,3,Yes
+23/08/2025 8:58:37,R2765,43,Male,MUMBAI,Homemaker,3000,Vintage,"White, Pastels, Beige",Instagram shops,Pinterest,23,4,No
+21/09/2025 13:46:30,R2782,21,Non-binary,Delhi,Working professional,8000,"Ethnic, Athleisure","Denim blue, Red",Instagram shops,Street style,3,4,No
+23/08/2025 17:37:47,R2732,41,Prefer not to say,Bengaluru,Freelancer,1000,"Y2K, Formal, Athleisure","Red, White, Denim blue",Brand store,Celebrities,9,3,Maybe
+07/08/2025 14:47:12,R2307,,Prefer not to say,Pune,Homemaker,3000,"Streetwear, Formal, Boho","Beige, Red, White",Brand store,Pinterest,15,4,Y
+13/08/2025 18:48:44,R2752,20,Prefer not to say,DELHI,Entrepreneur,8k,Streetwear,Red,Meesho,Celebrities,1,2,Y
+16/08/2025 21:32:16,R2651,,Non-binary,Delhi,Working professional,3000,"Athleisure, Y2K, Boho","Pastels, Earthy tones",Meesho,Instagram,19,5,Maybe
+04/08/2025 12:19:53,R2814,,Male,Mumbai,Homemaker,8000,Boho,Red,Myntra,Celebrities,23,1,No
+24/09/2025 21:11:46,R2278,24,Non-binary,pune,Freelancer,,"Vintage, Athleisure, Minimalist","Black, Red",Ajio,Pinterest,18,4,No
+10/08/2025 9:18:53,R2359,28,Female,Lucknow,Entrepreneur,3000,Boho,"Red, Beige",Meesho,Street style,3,2,Maybe
+05/08/2025 10:40:57,R2164,40,Male,Lucknow,Entrepreneur,3000,"Vintage, Ethnic, Streetwear","White, Denim blue",Brand store,Street style,17,1,Yes
+06/09/2025 14:44:51,R2337,36,Prefer not to say,Hyderabad,Freelancer,3000,"Formal, Minimalist","Red, Pastels, Earthy tones",Meesho,Celebrities,4,1,Yes
+20/08/2025 11:26:55,R2325,29,Non-binary,Patna,Freelancer,₹15000,"Y2K, Boho","Neon, White, Pastels",Brand store,YouTube,11,1,yes
+04/08/2025 17:38:17,R2588,42,prefer not to say,Lucknow,Working professional,1000,Athleisure,"Pastels, Beige",Myntra,Street style,10,2,Yes
+30/08/2025 21:45:39,R2830,18,Prefer not to say,Pune,Working professional,8000,"Boho, Minimalist, Ethnic","Neon, Earthy tones",Brand store,Instagram,20,1,Yes
+04/08/2025 17:23:30,R2489,27,Male,Delhi,Homemaker,2k,"Ethnic, Athleisure, Streetwear","Earthy tones, Red",Meesho,Magazines,11,5,Yes
+18/08/2025 9:18:40,R2179,23,Female,Lucknow,Freelancer,2000,Vintage,"Black, Earthy tones",Meesho,Street style,6,5,Y
+22/08/2025 20:34:57,R2685,39,Male, Mumbai ,Working professional,10000,Y2K,"Neon, Black",Brand store,Instagram,15,1,N
+02/08/2025 15:21:30,R2696,27,Female,Delhi,Entrepreneur,10000,Boho,"Neon, Beige",Myntra,Friends,9,,N
+13/09/2025 19:57:45,R2110,17,Non-binary,Lucknow,Homemaker,5000,"Formal, Boho, Streetwear",White,Myntra,Pinterest,7,2,N
+10/08/2025 12:16:58,R2459,29,Non-binary,Delhi,Freelancer,10000,Vintage,"Denim blue, Earthy tones, Red",Myntra,Celebrities,7,5,No
+22/09/2025 11:48:26,R2462,44,Non-binary,Delhi,Homemaker,3k,"Streetwear, Minimalist","Red, White, Denim blue",Instagram shops,Instagram,11,1,No
+12/09/2025 15:30:33,R2735,27,Non-binary,Mumbai,Freelancer,10000,Formal,"Denim blue, Pastels",Brand store,Street style,12,1,No
+26/08/2025 17:45:44,R2321,32,Non-binary,Lucknow,Freelancer,2000,"Ethnic, Vintage, Athleisure",Neon,Amazon,Pinterest,17,5,yes
+27/09/2025 17:29:20,R2835,40,Prefer not to say,Hyderabad,Homemaker,2000,"Y2K, Vintage",Denim blue,Meesho,Pinterest,14,2,No
+05/08/2025 10:15:23,R2283,5,M,Hyderabad,Working professional,₹8000,Minimalist,Black,Meesho,Street style,,,No
+22/08/2025 13:16:18,R2152,36,Non-binary,Patna,Homemaker,1000-2000,"Boho, Y2K, Vintage","Neon, Beige, Earthy tones",Meesho,Instagram,21,2,Yes
+16/08/2025 12:44:22,R2628,30,Prefer not to say,Kolkata,Working professional,2000-3000,Formal,Beige,Meesho,Magazines,17,2,Maybe
+25/08/2025 10:17:17,R2290,37,Prefer not to say,lucknow,Entrepreneur,15000,"Formal, Streetwear, Vintage","Earthy tones, Neon, White",Ajio,Street style,23,4,yes
+31/08/2025 18:38:39,R2170,17,M,Kolkata,Working professional,₹3000,"Minimalist, Y2K","Red, Pastels, Earthy tones",Brand store,Friends,22,2,No
+30/08/2025 9:28:29,R2115,40,Male,KOLKATA,Student,3000,"Athleisure, Formal","Denim blue, Black, Earthy tones",Meesho,Celebrities,2,1,Y
+11/09/2025 14:21:21,R2631,33,Non-binary,Delhi,Homemaker,8000,"Minimalist, Streetwear, Y2K",Earthy tones,Ajio,Instagram,18,2,Yes
+05/08/2025 15:56:22,R2851,21,Prefer not to say,LUCKNOW,Working professional,5000,Boho,"Red, Beige",Meesho,Friends,12,4,Maybe
+28/08/2025 11:57:28,R2076,41,F,Mumbai,Freelancer,2000,"Y2K, Boho, Formal",Neon,Amazon,YouTube,12,4,No
+12/09/2025 12:56:43,R2289,26,Prefer not to say,Kolkata,Entrepreneur,8000,"Y2K, Formal","Pastels, Red",Brand store,Instagram,2,3,Maybe
+04/08/2025 14:19:33,R2244,25,Non-binary,Bengaluru,Student,8000,Formal,"Denim blue, Neon, Beige",Myntra,Friends,9,2,Y
+28/08/2025 15:34:27,R2238,38,Prefer not to say,PUNE,Student,8000,"Formal, Minimalist","Black, Denim blue, Pastels",Local market,Instagram,21,,yes
+08/08/2025 15:19:52,R2717,22 yrs,Male,Hyderabad,Student,1000,"Ethnic, Y2K, Streetwear","Beige, Earthy tones, Red",Myntra,Street style,21,1,No
+23/08/2025 10:44:42,R2702,150,Male,Kolkata,Student,₹3000,"Streetwear, Ethnic, Y2K","Denim blue, White",Ajio,YouTube,9,2,No
+22/09/2025 20:40:41,R2617,43,non-binary,HYDERABAD,Working professional,3k,"Ethnic, Y2K, Boho",Beige,Instagram shops,Magazines,12,4,Maybe
+26/08/2025 20:41:38,R2490,29,F,Hyderabad,Homemaker,15000,"Vintage, Formal, Athleisure","Denim blue, Earthy tones, Red",Myntra,Street style,,2,Yes
+12/09/2025 8:41:56,R2214,-3,Male,Kolkata,Freelancer,,"Formal, Minimalist, Athleisure",White,Ajio,Magazines,17,2,Y
+18/08/2025 14:36:47,R2758,29,Female,lucknow,Entrepreneur,8000,Vintage,Neon,Local market,YouTube,,4,N
+24/08/2025 16:57:46,R2310,18,Prefer not to say,Kolkata,Freelancer,3000,Y2K,Denim blue,Myntra,Street style,4,1,Yes
+17/09/2025 8:58:45,R2698,42,male,Patna,Homemaker,2000,Ethnic,"White, Neon",Local market,Magazines,10,1,N
+20/09/2025 15:22:28,R2133,44,Prefer not to say,Lucknow,Homemaker,8000,Athleisure,Black,Local market,Street style,1,4,No
+10/08/2025 13:40:32,R2898,43,Female,BENGALURU,Working professional,10000,Vintage,"Red, Earthy tones",Myntra,Celebrities,1,5,Y
+20/08/2025 16:22:56,R2657,21,F, Kolkata ,Working professional,,"Athleisure, Formal, Streetwear","Pastels, White",Myntra,Friends,6,,Yes
+27/08/2025 16:36:13,R2593,21,Non-binary,PUNE,Student,10000,"Ethnic, Athleisure, Minimalist",Denim blue,Instagram shops,Pinterest,14,5,No
+25/08/2025 14:31:10,R2072,18,Non-binary,Bengaluru,Freelancer,1000,"Streetwear, Formal, Vintage","Denim blue, Neon, Black",Meesho,Pinterest,2,1,No
+10/09/2025 8:47:28,R2668,22 yrs,Male, Delhi ,Homemaker,15k,"Minimalist, Vintage","Denim blue, Beige, White",Myntra,Friends,4,4,N
+29/09/2025 10:13:36,R2286,35,Female,HYDERABAD,Entrepreneur,10k,"Ethnic, Minimalist","Red, Beige, Black",Myntra,Pinterest,13,2,No
+12/09/2025 20:16:42,R2209,28,Female,Pune,Working professional,₹1000,"Vintage, Boho",White,Myntra,Magazines,10,5,yes
+20/08/2025 20:39:31,R2404,25,female,Pune,Entrepreneur,2k,Y2K,"Earthy tones, White, Denim blue",Brand store,Magazines,18,5,Maybe
+07/09/2025 15:37:54,R2518,28,Female,Delhi,Homemaker,10000,"Vintage, Boho","Red, Denim blue",Amazon,Friends,9,4,No
+27/08/2025 16:36:13,R2593,21,Non-binary,PUNE,Student,10000,"Ethnic, Athleisure, Minimalist",Denim blue,Instagram shops,Pinterest,14,5,No
+22/08/2025 19:33:50,R2092,21,Non-binary,Pune,Student,1000-2000,Formal,"Black, Earthy tones, Red",Ajio,Street style,17,1,Yes
+28/09/2025 22:35:47,R2517,38,Prefer not to say,Kolkata,Working professional,1000,Y2K,"Denim blue, Neon",Myntra,Street style,15,1,Yes
+28/09/2025 13:51:45,R2508,35,Prefer not to say,Bengaluru,Entrepreneur,8000,"Boho, Y2K, Athleisure",Neon,Local market,YouTube,,3,No
+09/08/2025 10:39:55,R2724,31,Prefer not to say, Mumbai ,Homemaker,10000-11000,"Athleisure, Formal","White, Red",Instagram shops,YouTube,19,3,Yes
+21/09/2025 12:29:23,R2402,43,Male,Kolkata,Homemaker,2000,"Minimalist, Streetwear",White,Brand store,Instagram,19,1,N
+03/09/2025 14:36:57,R2745,26,Prefer not to say,Kolkata,Freelancer,₹8000,"Boho, Minimalist, Athleisure","Beige, Denim blue, Earthy tones",Ajio,YouTube,23,3,No
+03/08/2025 21:36:34,R2070,23,Prefer not to say,Lucknow,Student,15000,Athleisure,"Pastels, Black",Myntra,Friends,8,1,Y
+28/08/2025 11:40:52,R2684,26,prefer not to say,Pune,Homemaker,2000,Athleisure,"White, Denim blue, Red",Brand store,Magazines,8,2,Yes
+18/08/2025 18:22:44,R2035,,Prefer not to say,Pune,Working professional,₹1000,"Minimalist, Ethnic, Athleisure","White, Earthy tones",Amazon,Magazines,16,3,No
+29/09/2025 11:20:36,R2695,23,Male,Hyderabad,Student,5000-6000,Streetwear,"Denim blue, Pastels",Ajio,Instagram,21,5,yes
+29/09/2025 13:25:41,R2431,28,Non-binary,mumbai,Student,2000,"Vintage, Formal","White, Red",Meesho,Instagram,18,3,Yes
+05/09/2025 13:48:38,R2282,19,non-binary,Bengaluru,Entrepreneur,3000,Streetwear,"Red, Neon",Local market,Instagram,,5,yes
+10/09/2025 16:21:26,R2288,32,Prefer not to say,Pune,Working professional,,"Streetwear, Ethnic, Y2K",Earthy tones,Meesho,Friends,4,5,No
+04/09/2025 20:34:44,R2221,28,Female,Pune,Homemaker,1000,"Y2K, Boho, Ethnic",Denim blue,Ajio,Street style,2,1,Maybe
+26/09/2025 19:11:12,R2385,20,Non-binary,Kolkata,Entrepreneur,10000,"Y2K, Minimalist, Ethnic","Black, Earthy tones, Red",Myntra,Instagram,15,1,No
+19/09/2025 17:35:36,R2299,29,Male,Pune,Entrepreneur,3000,"Streetwear, Y2K, Minimalist","Neon, Black",Local market,Street style,,4,No
+09/09/2025 21:15:52,R2436,34,Prefer not to say,Delhi,Homemaker,15000,"Minimalist, Formal",Red,Instagram shops,Instagram,15,2,No
+19/08/2025 19:39:40,R2541,20,Male,Mumbai,Freelancer,5k,Athleisure,"White, Black, Pastels",Brand store,Magazines,,,yes
+08/09/2025 11:49:37,R2795,34,Female,Patna,Entrepreneur,3000,"Formal, Streetwear, Boho",Earthy tones,Ajio,Celebrities,17,3,Yes
+22/08/2025 18:55:26,R2364,41,Prefer not to say,Pune,Homemaker,,"Minimalist, Athleisure",Neon,Brand store,Celebrities,18,3,No
+25/09/2025 21:15:49,R2055,-3,Non-binary,bengaluru,Student,8000,"Athleisure, Y2K","Denim blue, Red",Amazon,Instagram,12,2,Y
+28/09/2025 21:30:54,R2475,26,Female,Patna,Student,5000,Formal,Black,Ajio,Celebrities,11,1,Maybe
+11/08/2025 21:56:39,R2074,27,Male,Bengaluru,Entrepreneur,₹5000,"Athleisure, Formal",Beige,Myntra,Instagram,17,4,Y
+03/09/2025 15:52:35,R2629,28,Non-binary,Delhi,Student,15000,Boho,Black,Brand store,Friends,10,4,Yes
+13/09/2025 9:11:18,R2253,24,Female,Mumbai,Homemaker,15k,"Vintage, Minimalist, Formal",Pastels,Local market,Instagram,2,2,Yes
+29/09/2025 19:19:52,R2522,34,Male,BENGALURU,Entrepreneur,1000,Athleisure,"Red, White",Local market,Friends,14,,Y
+29/08/2025 20:14:55,R2427,30,Female,Delhi,Student,8000,"Boho, Y2K, Athleisure",Pastels,Local market,YouTube,11,2,yes
+05/09/2025 13:23:47,R2104,41,Female,Kolkata,Working professional,10000-11000,Streetwear,Neon,Ajio,YouTube,14,3,Y
+29/08/2025 17:11:36,R2067,19,non-binary,Delhi,Working professional,2000,"Formal, Y2K","Beige, Denim blue",Meesho,Magazines,13,1,No
+26/09/2025 13:16:47,R2646,19,female,Kolkata,Student,5000,"Streetwear, Boho, Vintage","Red, Beige",Instagram shops,YouTube,19,1,No
+22/09/2025 17:26:56,R2760,31,Prefer not to say,Patna,Student,1000,Minimalist,"White, Neon",Amazon,Instagram,13,5,yes
+10/09/2025 17:15:15,R2778,44,prefer not to say,Lucknow,Working professional,15000,"Ethnic, Minimalist","Denim blue, Black",Instagram shops,Celebrities,19,3,No
+27/09/2025 12:25:53,R2066,24,Prefer not to say,Kolkata,Entrepreneur,2000,Streetwear,"Red, Denim blue",Myntra,Street style,23,2,No
+17/08/2025 16:31:26,R2437,30,non-binary,Hyderabad,Homemaker,5000,"Streetwear, Formal, Ethnic",Neon,Instagram shops,Instagram,15,3,Yes
+06/09/2025 12:49:44,R2224,36,non-binary,patna,Student,15000,Y2K,"Black, Earthy tones",Myntra,Friends,16,,N
+18/08/2025 13:44:27,R2239,25,Prefer not to say,Hyderabad,Entrepreneur,₹2000,Formal,"Red, Pastels",Amazon,Magazines,4,1,Yes
+04/09/2025 19:44:51,R2863,34,Non-binary,Mumbai,Entrepreneur,15000,Vintage,White,Myntra,Street style,1,4,Y
+02/09/2025 21:52:34,R2862,21,Prefer not to say,Mumbai,Homemaker,5000,"Athleisure, Y2K, Boho","Black, Denim blue, White",Local market,Street style,12,4,Maybe
+01/09/2025 11:40:48,R2797,24,Male,Bengaluru,Freelancer,8000,"Y2K, Ethnic, Streetwear","White, Denim blue",Amazon,Friends,21,4,Y
+05/08/2025 12:30:51,R2601,44,Prefer not to say,Hyderabad,Working professional,2000,"Y2K, Vintage, Streetwear","Pastels, Black, Earthy tones",Amazon,Pinterest,2,2,No
+24/08/2025 10:18:10,R2300,22,Male,PATNA,Entrepreneur,10000,"Boho, Y2K, Streetwear",Denim blue,Local market,Magazines,18,5,Yes
+29/09/2025 14:15:44,R2481,37,Prefer not to say,delhi,Freelancer,2000,"Vintage, Formal, Minimalist","Earthy tones, Denim blue, Red",Meesho,Magazines,13,2,yes
+31/08/2025 8:14:25,R2666,19,Prefer not to say,Mumbai,Student,3000,"Athleisure, Streetwear, Minimalist","White, Denim blue",Ajio,Street style,5,2,Maybe
+16/08/2025 20:44:57,R2536,29,Female,Lucknow,Student,3000,"Formal, Streetwear, Boho","Neon, Pastels, Denim blue",Amazon,Pinterest,21,1,No
+23/08/2025 18:21:22,R2551,24,Female,Lucknow,Freelancer,3000,"Minimalist, Athleisure","Red, Pastels, Black",Myntra,Pinterest,23,2,Yes
+01/09/2025 21:49:22,R2733,22,Female,Delhi,Student,1000,"Minimalist, Athleisure","Neon, Red",Amazon,Friends,11,1,Yes
+26/09/2025 10:56:56,R2473,N/A,Male,DELHI,Working professional,15000,"Athleisure, Minimalist","Red, Neon",Myntra,Street style,1,1,Yes
+20/09/2025 21:14:38,R2430,36,Female,Delhi,Entrepreneur,3000,Vintage,"White, Pastels, Beige",Myntra,Celebrities,18,5,No
+27/09/2025 10:30:19,R2225,30,Non-binary,Mumbai,Entrepreneur,3000,Y2K,Earthy tones,Myntra,YouTube,7,5,Yes
+20/09/2025 11:15:46,R2585,22 yrs,Female,Lucknow,Student,15000,"Streetwear, Ethnic, Minimalist","Red, White",Meesho,Instagram,,4,Yes
+19/08/2025 16:14:57,R2861,34,Non-binary,Lucknow,Student,10000,"Athleisure, Minimalist","Black, Red",Myntra,Street style,21,2,Yes
+11/08/2025 8:48:19,R2701,20,Female,Patna,Homemaker,,"Athleisure, Streetwear, Formal","Denim blue, Earthy tones, Beige",Brand store,Friends,3,5,N
+25/08/2025 12:25:10,R2065,32,Male,Bengaluru,Entrepreneur,15000,Vintage,White,Meesho,YouTube,1,3,Maybe
+12/09/2025 21:44:30,R2163,5,female,Lucknow,Student,5000,"Formal, Vintage","Red, Earthy tones",Brand store,Pinterest,1,4,Yes
+26/08/2025 20:45:24,R2157,33,Female,Delhi,Working professional,1000-2000,"Streetwear, Boho, Vintage","Pastels, Neon, White",Ajio,Pinterest,24,2,No
+26/08/2025 12:58:36,R2354,,Male,Bengaluru,Homemaker,8000,"Ethnic, Streetwear","Pastels, Earthy tones, Black",Local market,Magazines,1,3,Maybe
+19/09/2025 10:57:43,R2715,40,Prefer not to say,MUMBAI,Homemaker,5000,Minimalist,"Earthy tones, Red, Black",Ajio,YouTube,11,1,Yes
+09/09/2025 9:56:20,R2839,32,Non-binary,HYDERABAD,Working professional,2000,"Vintage, Formal, Streetwear","Neon, Denim blue",Myntra,Friends,,3,Yes
+05/09/2025 8:57:11,R2535,20,Male,Kolkata,Freelancer,3000,Vintage,"Red, Neon",Amazon,Friends,,4,No
+22/09/2025 22:17:37,R2154,18,prefer not to say,Mumbai,Entrepreneur,₹1000,Y2K,"Red, Earthy tones",Ajio,Celebrities,1,4,yes
+24/09/2025 17:55:32,R2669,35,Female,Lucknow,Freelancer,15000,"Streetwear, Ethnic, Boho","Red, Denim blue",Local market,Friends,16,1,No
+07/09/2025 13:19:55,R2846,18,F,Mumbai,Entrepreneur,1000,"Ethnic, Vintage",Beige,Myntra,Pinterest,17,3,No
+11/09/2025 10:28:55,R2608,34,Prefer not to say,Delhi,Working professional,10000,"Y2K, Boho","Denim blue, Beige",Amazon,YouTube,15,1,No
+06/09/2025 19:20:29,R2147,31,Prefer not to say,Bengaluru,Entrepreneur,5000,"Vintage, Streetwear, Minimalist","Pastels, Red, Black",Meesho,Friends,,2,Yes
+25/09/2025 8:46:15,R2424,25,Male,Mumbai,Student,₹3000,"Formal, Ethnic, Minimalist","Beige, Black, Denim blue",Myntra,Magazines,19,4,N
+14/08/2025 13:26:49,R2767,17,Non-binary,Pune,Homemaker,2000,"Streetwear, Vintage, Y2K","Beige, Red",Instagram shops,Celebrities,17,1,No
+05/08/2025 15:51:46,R2432,36,Prefer not to say,Patna,Freelancer,5000-6000,Vintage,"White, Black",Myntra,Street style,,5,Maybe
+30/08/2025 9:31:23,R2452,-3,female,Patna,Entrepreneur,1000,Athleisure,"Beige, White, Black",Brand store,Magazines,18,4,Y
+07/09/2025 10:15:49,R2193,24,Prefer not to say,BENGALURU,Freelancer,2000,"Formal, Ethnic","Beige, Neon, White",Myntra,Street style,14,5,No
+28/09/2025 10:21:24,R2476,,Male,Patna,Entrepreneur,,Streetwear,"Earthy tones, Denim blue, Red",Ajio,Celebrities,10,1,Yes
+24/08/2025 20:57:21,R2247,N/A,Male,Delhi,Entrepreneur,15000,"Athleisure, Minimalist, Boho",Red,Ajio,Instagram,11,4,Y
+11/09/2025 20:41:24,R2712,31,Male,Lucknow,Student,₹2000,"Boho, Vintage","Red, Black",Ajio,Street style,8,5,No
+31/08/2025 8:42:34,R2347,41,Non-binary,Pune,Working professional,2000,"Boho, Minimalist",Black,Myntra,Magazines,6,2,Y
+06/09/2025 15:37:38,R2262,31,non-binary,Hyderabad,Homemaker,8000,"Y2K, Boho","Black, Denim blue, Earthy tones",Instagram shops,Pinterest,3,5,No
+25/09/2025 20:53:16,R2554,34,Female,Hyderabad,Entrepreneur,8000,"Formal, Streetwear","Neon, Denim blue, Black",Ajio,Street style,3,4,Yes
+13/08/2025 11:45:26,R2578,18,Male, Pune ,Homemaker,5000,Streetwear,Black,Ajio,Magazines,8,1,Yes
+29/09/2025 13:52:54,R2077,26,Prefer not to say,Patna,Freelancer,5k,"Vintage, Athleisure, Formal",White,Ajio,YouTube,2,2,No
+25/08/2025 13:14:58,R2641,twenty two,female,Delhi,Entrepreneur,10000-11000,Y2K,"Beige, Pastels",Amazon,YouTube,23,5,N
+29/08/2025 18:21:15,R2762,40,Male,mumbai,Homemaker,2000,Minimalist,Red,Meesho,Pinterest,14,3,Yes
+22/08/2025 19:33:50,R2092,21,Non-binary,Pune,Student,1000-2000,Formal,"Black, Earthy tones, Red",Ajio,Street style,17,1,Yes
+03/09/2025 22:12:17,R2285,-3,Male,Kolkata,Homemaker,10000-11000,"Y2K, Formal","White, Denim blue, Pastels",Brand store,Celebrities,20,3,Yes
+01/08/2025 10:21:15,R2083,18,non-binary,Pune,Working professional,3k,"Minimalist, Ethnic, Y2K","Denim blue, Pastels, White",Ajio,YouTube,,2,Yes
+15/09/2025 13:25:17,R2270,24,Prefer not to say,Pune,Working professional,8000,Athleisure,"Pastels, Neon",Meesho,YouTube,17,2,No
+16/08/2025 20:58:37,R2155,26,Prefer not to say,lucknow,Student,1000,"Y2K, Athleisure","Neon, Earthy tones, White",Myntra,Instagram,5,,Yes
+28/08/2025 12:39:19,R2730,17,Male,Hyderabad,Homemaker,8000,Vintage,"Denim blue, Pastels",Brand store,Magazines,16,5,N
+21/09/2025 19:55:21,R2126,22,Male,hyderabad,Homemaker,1000,Ethnic,"Black, Neon, Red",Brand store,Magazines,6,4,Maybe
+18/08/2025 22:50:13,R2530,34,Male,Hyderabad,Student,,Formal,"Neon, Black",Brand store,Friends,17,5,Yes
+07/09/2025 17:14:43,R2127,26,Female,Kolkata,Freelancer,8000-9000,Minimalist,"Beige, Neon, Red",Meesho,Pinterest,15,5,Yes
+25/09/2025 16:41:27,R2781,37,Non-binary,Mumbai,Freelancer,5000-6000,"Streetwear, Y2K","Denim blue, Beige",Brand store,Instagram,13,4,Maybe
+27/08/2025 18:54:52,R2419,25,Female,Bengaluru,Homemaker,10000,"Vintage, Ethnic",Black,Brand store,Pinterest,4,5,Yes
+25/08/2025 18:11:54,R2790,23,Prefer not to say,Kolkata,Homemaker,,"Boho, Formal, Minimalist",Black,Myntra,Street style,10,1,No
+13/09/2025 21:31:50,R2011,31,Male,Bengaluru,Student,2000-3000,"Boho, Streetwear","Earthy tones, Denim blue, White",Ajio,Street style,16,,Maybe
+21/08/2025 11:24:51,R2379,38,Male,Lucknow,Freelancer,1000,"Formal, Y2K, Minimalist",Neon,Amazon,Pinterest,20,5,No
+11/09/2025 19:37:48,R2572,30,Female,Pune,Student,₹15000,"Streetwear, Y2K","White, Earthy tones",Myntra,Magazines,,4,No
+13/09/2025 12:28:49,R2112,33,Non-binary,Mumbai,Homemaker,10k,"Ethnic, Vintage, Minimalist",Red,Ajio,Celebrities,15,4,Yes
+27/09/2025 16:57:57,R2889,-3,male,Pune,Entrepreneur,10000,"Athleisure, Streetwear, Minimalist","Black, Earthy tones",Myntra,Magazines,18,3,No
+14/08/2025 20:47:26,R2330,41,Female,Pune,Freelancer,5000,"Formal, Streetwear, Boho","Earthy tones, Pastels, Black",Ajio,Pinterest,1,3,No
+22/09/2025 12:34:49,R2287,27,Non-binary,Delhi,Student,5000,"Y2K, Streetwear",Pastels,Amazon,Celebrities,11,2,Maybe
+01/08/2025 19:29:31,R2524,43,prefer not to say,Pune,Homemaker,3000,"Athleisure, Minimalist, Boho","Black, Red, Earthy tones",Myntra,Pinterest,3,1,yes
+04/08/2025 18:34:49,R2191,32,Female,Pune,Working professional,2000,Minimalist,Pastels,Local market,Friends,2,5,No
+01/08/2025 14:16:40,R2479,43,male,lucknow,Working professional,15000,"Formal, Athleisure, Streetwear","Denim blue, Beige, Neon",Ajio,Celebrities,,5,N
+12/09/2025 16:16:20,R2471,20,Prefer not to say,bengaluru,Homemaker,3000,"Streetwear, Formal, Athleisure",Denim blue,Instagram shops,Celebrities,17,1,Y
+08/09/2025 8:36:36,R2036,25,Prefer not to say,LUCKNOW,Student,2000,"Vintage, Ethnic, Boho",Neon,Myntra,Friends,3,4,Y
+16/09/2025 19:41:31,R2444,23,Female, Patna ,Entrepreneur,15k,"Ethnic, Vintage",White,Myntra,YouTube,1,5,Yes
+11/08/2025 17:19:14,R2441,23,Female,Hyderabad,Entrepreneur,₹5000,Vintage,Earthy tones,Instagram shops,Street style,14,4,Yes
+08/08/2025 19:54:54,R2124,150,male,Bengaluru,Freelancer,2000,Minimalist,"White, Black, Denim blue",Brand store,Pinterest,15,3,No
+15/09/2025 9:31:12,R2779,42,Non-binary,Patna,Student,,"Streetwear, Ethnic","Neon, Earthy tones",Myntra,Friends,7,1,No
+31/08/2025 12:19:52,R2372,19,prefer not to say,Mumbai,Working professional,8000,Y2K,"Earthy tones, Neon, Red",Instagram shops,Pinterest,21,5,Yes
+22/09/2025 14:36:36,R2537,27,Male,Kolkata,Student,3000,"Ethnic, Vintage, Athleisure",Pastels,Amazon,Magazines,1,,yes
+11/09/2025 13:17:41,R2215,-3,Non-binary, Bengaluru ,Student,5000,"Streetwear, Athleisure",Earthy tones,Local market,Friends,23,,Yes
+03/09/2025 10:36:48,R2178,24,Prefer not to say,Pune,Entrepreneur,2000,"Y2K, Athleisure, Boho","Beige, Denim blue",Instagram shops,Street style,17,2,yes
+22/08/2025 13:50:22,R2774,23,male,Hyderabad,Student,3000,Athleisure,"Earthy tones, Neon, Red",Myntra,Celebrities,8,2,yes
+02/08/2025 22:18:53,R2376,17,Male,Delhi,Student,₹15000,"Minimalist, Streetwear, Formal","Black, Neon",Instagram shops,YouTube,20,,Yes
+30/08/2025 8:20:41,R2550,41,Male,Lucknow,Entrepreneur,₹5000,Formal,White,Meesho,Celebrities,7,5,Yes
+22/08/2025 21:20:10,R2062,22,Non-binary,Delhi,Student,15000,"Boho, Y2K","Earthy tones, Red",Amazon,Friends,6,1,Maybe
+06/09/2025 21:54:47,R2525,40,Prefer not to say,Lucknow,Freelancer,5000,"Minimalist, Athleisure, Formal","White, Neon",Ajio,YouTube,19,2,N
+09/08/2025 10:26:56,R2405,18,Non-binary,Bengaluru,Working professional,1000,"Streetwear, Formal","Red, White, Black",Local market,YouTube,2,1,Yes
+26/08/2025 22:45:42,R2630,40,Non-binary, Kolkata ,Student,15000,"Streetwear, Boho, Y2K","Denim blue, Red",Meesho,Pinterest,12,2,N
+18/08/2025 9:35:35,R2637,34,Non-binary,Lucknow,Homemaker,5000,"Vintage, Y2K","Earthy tones, Neon, Red",Brand store,Friends,9,5,No
+20/08/2025 16:33:26,R2828,,Prefer not to say,Hyderabad,Entrepreneur,15000,Athleisure,"Beige, Red, Neon",Brand store,Magazines,,1,N
+11/08/2025 14:54:18,R2886,17,F,pune,Working professional,15000,"Minimalist, Vintage","Black, Earthy tones",Local market,YouTube,4,2,Yes
+06/08/2025 14:29:27,R2013,N/A,Prefer not to say,MUMBAI,Entrepreneur,10000,"Ethnic, Vintage",Earthy tones,Myntra,Instagram,10,4,yes
+06/08/2025 8:30:18,R2570,N/A,prefer not to say,Bengaluru,Working professional,8000,"Minimalist, Vintage, Formal","Red, Pastels",Brand store,YouTube,23,2,No
+03/08/2025 17:35:14,R2731,33,Male,Hyderabad,Entrepreneur,,"Formal, Boho","Denim blue, Red, Beige",Myntra,YouTube,9,2,N
+26/09/2025 15:49:25,R2678,25,Male,Mumbai,Entrepreneur,10000,"Boho, Streetwear","Red, Neon, White",Myntra,Street style,9,2,Yes
+07/08/2025 9:54:41,R2665,19,Prefer not to say,Patna,Homemaker,10000,"Athleisure, Formal",Earthy tones,Meesho,Instagram,4,4,Maybe
+04/09/2025 18:29:27,R2705,43,Prefer not to say,Kolkata,Entrepreneur,1000,"Y2K, Ethnic",Denim blue,Meesho,Celebrities,24,3,yes
+20/09/2025 13:52:57,R2584,24,Prefer not to say,bengaluru,Entrepreneur,1000,"Ethnic, Vintage, Boho","Black, Denim blue, Red",Meesho,YouTube,3,5,Yes
+19/08/2025 14:20:57,R2189,22,Prefer not to say,bengaluru,Working professional,10000,"Vintage, Y2K","Pastels, Earthy tones, Beige",Instagram shops,Street style,7,4,Y
+22/08/2025 9:33:16,R2380,26,Non-binary,Mumbai,Entrepreneur,10000-11000,Vintage,Denim blue,Brand store,Street style,,3,Yes
+17/09/2025 8:44:41,R2434,17,Male,Pune,Student,10000,"Ethnic, Formal, Minimalist","Pastels, Beige",Ajio,Street style,21,2,yes
+14/09/2025 14:12:28,R2351,30,Female,Kolkata,Working professional,8000,Minimalist,"White, Red, Neon",Ajio,Instagram,19,,No
+26/09/2025 16:31:28,R2034,26,Prefer not to say,pune,Freelancer,2000,"Minimalist, Boho","Earthy tones, White",Meesho,Instagram,4,1,Yes
+09/08/2025 13:21:46,R2573,39,female,Hyderabad,Student,1k,Y2K,"Earthy tones, White, Beige",Instagram shops,Friends,15,3,No
+04/09/2025 9:18:19,R2236,,non-binary,Bengaluru,Student,₹15000,Vintage,White,Instagram shops,Instagram,4,3,Maybe
+30/08/2025 17:22:37,R2740,36,Male,Kolkata,Freelancer,2000,"Boho, Ethnic, Minimalist","Neon, Beige",Myntra,Magazines,8,3,Yes
+15/08/2025 20:40:12,R2864,17,Female,pune,Working professional,1000,Streetwear,"Red, Pastels, Beige",Instagram shops,Instagram,14,5,Y
+29/09/2025 17:37:51,R2799,35,Non-binary,Delhi,Entrepreneur,1000,Ethnic,Pastels,Amazon,Street style,20,4,Maybe
+23/08/2025 11:10:34,R2228,24,Female,Lucknow,Freelancer,2000,"Ethnic, Y2K, Boho","Beige, Red",Brand store,Magazines,9,4,N
+06/08/2025 15:16:57,R2017,22,Female,Hyderabad,Freelancer,,Ethnic,Beige,Ajio,Friends,,5,yes
+11/08/2025 8:48:56,R2342,43,Male,patna,Freelancer,₹8000,Minimalist,"Neon, Earthy tones",Instagram shops,Instagram,20,1,Maybe
+08/08/2025 16:23:31,R2180,41,Male,patna,Working professional,10000,Vintage,Beige,Instagram shops,Pinterest,16,5,Yes
+12/08/2025 21:25:44,R2604,41,Prefer not to say,kolkata,Freelancer,8000,"Boho, Formal",Earthy tones,Brand store,Friends,20,3,No
+25/09/2025 21:41:11,R2033,23,Male,Hyderabad,Entrepreneur,8000,"Minimalist, Athleisure","Red, Earthy tones",Amazon,Pinterest,5,2,Yes
+04/09/2025 20:43:41,R2672,23,Prefer not to say,Pune,Freelancer,₹1000,"Athleisure, Minimalist, Boho","Pastels, Red",Meesho,Magazines,12,2,Yes
+25/09/2025 18:36:43,R2146,36,non-binary,Lucknow,Entrepreneur,5000,Y2K,"Pastels, Earthy tones",Meesho,YouTube,10,4,yes
+27/09/2025 18:44:26,R2663,41,Male,Lucknow,Entrepreneur,₹5000,"Minimalist, Ethnic","Earthy tones, White, Black",Ajio,Street style,,,Maybe
+27/08/2025 14:32:38,R2575,150,Prefer not to say,Pune,Entrepreneur,2000,"Streetwear, Boho, Vintage",Earthy tones,Local market,Instagram,8,5,No
+09/09/2025 8:46:20,R2507,25,Prefer not to say,Kolkata,Student,2000,"Streetwear, Ethnic","Red, White, Pastels",Local market,Magazines,7,2,No
+22/09/2025 20:33:54,R2089,42,Male,Hyderabad,Entrepreneur,2000,"Boho, Formal","Red, Denim blue",Instagram shops,Magazines,14,5,N
+18/08/2025 21:25:42,R2605,18,male,Delhi,Working professional,5000-6000,"Athleisure, Ethnic, Y2K",Neon,Meesho,Celebrities,17,4,yes
+02/08/2025 9:48:42,R2273,23,Female, Pune ,Freelancer,15000,"Minimalist, Y2K, Boho","Earthy tones, Denim blue",Instagram shops,YouTube,16,,Y
+18/08/2025 19:43:52,R2650,N/A,Female,Delhi,Student,,"Minimalist, Ethnic","Pastels, Beige, Denim blue",Brand store,Street style,11,5,yes
+27/08/2025 20:50:36,R2425,twenty two,Prefer not to say,Bengaluru,Entrepreneur,15000-16000,"Athleisure, Y2K","Pastels, Black",Local market,Celebrities,19,4,Yes
+27/09/2025 12:25:31,R2306,23,Male,Hyderabad,Student,10000,"Boho, Athleisure, Formal",Beige,Myntra,Instagram,11,3,No
+25/09/2025 21:26:48,R2433,32,Female,Mumbai,Homemaker,3000-4000,"Ethnic, Athleisure",Black,Instagram shops,Magazines,20,5,Yes
+19/09/2025 17:31:10,R2841,26,Non-binary, Mumbai ,Entrepreneur,2000,"Athleisure, Y2K, Ethnic",Beige,Local market,Celebrities,12,3,No
+01/09/2025 10:52:36,R2254,21,Male,HYDERABAD,Working professional,3000,"Athleisure, Formal",Black,Ajio,Friends,,3,yes
+02/08/2025 20:12:45,R2048,26,Male,Bengaluru,Entrepreneur,15000,Minimalist,"Pastels, Earthy tones",Myntra,Friends,21,1,No
+23/08/2025 18:47:18,R2042,34,non-binary,Kolkata,Entrepreneur,3000,Vintage,White,Ajio,Celebrities,,2,N
+05/09/2025 11:22:49,R2358,42,Non-binary, Kolkata ,Homemaker,15000,"Formal, Minimalist, Athleisure",Black,Instagram shops,YouTube,10,2,yes
+21/09/2025 22:52:54,R2825,17,male,Hyderabad,Entrepreneur,10000,"Minimalist, Streetwear",Pastels,Instagram shops,YouTube,5,,No
+21/08/2025 13:28:40,R2446,24,M,Patna,Freelancer,₹8000,Ethnic,Beige,Instagram shops,Magazines,8,3,N
+27/08/2025 13:34:42,R2194,150,F,MUMBAI,Entrepreneur,,"Minimalist, Y2K, Streetwear","Red, Denim blue",Instagram shops,Celebrities,16,5,No
+26/09/2025 12:49:17,R2521,33,Prefer not to say,kolkata,Freelancer,2000,"Ethnic, Athleisure, Formal","Red, White, Denim blue",Instagram shops,Instagram,11,1,No
+06/09/2025 8:47:38,R2723,44,Male,KOLKATA,Student,8000,"Ethnic, Boho, Minimalist","Pastels, Earthy tones",Local market,Street style,6,,Yes
+06/08/2025 9:11:54,R2832,37,Non-binary,Kolkata,Working professional,5000-6000,Minimalist,Black,Instagram shops,Celebrities,,5,No
+20/08/2025 20:57:13,R2408,29,prefer not to say,Hyderabad,Working professional,3000,"Ethnic, Minimalist, Athleisure",Earthy tones,Myntra,Magazines,17,2,No
+22/09/2025 10:15:54,R2722,28,Prefer not to say,Lucknow,Working professional,2000,Streetwear,"Neon, Pastels",Brand store,YouTube,8,5,Yes
+04/09/2025 12:43:37,R2474,40,Female,Lucknow,Working professional,5000-6000,"Vintage, Formal","Neon, Earthy tones, Beige",Instagram shops,YouTube,14,2,No
+27/09/2025 19:23:16,R2120,37,Prefer not to say,KOLKATA,Student,5k,"Streetwear, Minimalist",Denim blue,Meesho,Street style,12,4,yes
+02/08/2025 20:49:13,R2463,42,Female,Delhi,Homemaker,1k,"Formal, Boho","Red, Earthy tones, Denim blue",Meesho,Instagram,24,3,No
+13/09/2025 8:58:10,R2106,42,Non-binary,Hyderabad,Working professional,5000,Formal,"Earthy tones, White",Brand store,YouTube,3,3,Yes
+23/09/2025 18:45:41,R2664,19,Non-binary,kolkata,Working professional,2000,"Minimalist, Ethnic, Y2K","Denim blue, Beige",Myntra,Street style,7,5,Maybe
+13/08/2025 14:23:33,R2113,20,Non-binary,PATNA,Entrepreneur,2000,Streetwear,"Neon, Pastels",Local market,Celebrities,7,5,Yes
+05/08/2025 13:38:45,R2725,18,Non-binary, Pune ,Working professional,2000-3000,"Y2K, Formal, Minimalist","Neon, Beige",Meesho,Street style,18,2,Y
+09/08/2025 15:57:14,R2136,31,Male,Bengaluru,Freelancer,15000,Ethnic,"Black, Beige",Amazon,YouTube,12,1,N
+08/09/2025 13:18:36,R2390,18,Male,Bengaluru,Working professional,2k,"Ethnic, Athleisure","White, Red",Meesho,YouTube,18,,No
+17/08/2025 21:47:25,R2061,34,Non-binary,Lucknow,Working professional,1000,"Formal, Minimalist, Ethnic",Pastels,Ajio,Instagram,7,1,No
+05/09/2025 9:38:11,R2592,39,Female,Kolkata,Working professional,3000,"Athleisure, Streetwear","White, Neon",Meesho,Street style,,5,Maybe
+07/08/2025 11:51:10,R2260,24,Male,Bengaluru,Working professional,1000,Minimalist,"White, Beige",Local market,Celebrities,5,4,Yes
+06/09/2025 15:33:11,R2751,23,male,KOLKATA,Working professional,2000,"Formal, Y2K","Denim blue, Black, Pastels",Amazon,Magazines,24,1,No
+28/08/2025 12:34:12,R2328,33,Prefer not to say,Bengaluru,Student,2000,Boho,"White, Black, Red",Local market,Magazines,8,3,Yes
+18/09/2025 12:19:50,R2692,28,Prefer not to say,Hyderabad,Working professional,15000,"Vintage, Minimalist, Boho","Earthy tones, Neon",Local market,YouTube,4,2,Yes
+05/09/2025 11:22:49,R2358,42,Non-binary, Kolkata ,Homemaker,15000,"Formal, Minimalist, Athleisure",Black,Instagram shops,YouTube,10,2,yes
+29/09/2025 14:10:53,R2413,34,Male,Hyderabad,Student,5000,Boho,"Earthy tones, Red, Beige",Amazon,Magazines,18,4,Maybe
+08/09/2025 9:51:42,R2512,37,male,Mumbai,Student,5000,Minimalist,"Red, Pastels, Beige",Brand store,YouTube,7,2,N
+19/09/2025 19:24:21,R2497,23,Non-binary,Mumbai,Working professional,2000,"Boho, Formal, Streetwear","Earthy tones, Neon, Black",Amazon,Friends,18,5,No
+07/08/2025 13:54:28,R2357,20,Non-binary, Delhi ,Entrepreneur,10000,"Vintage, Formal","White, Red, Black",Instagram shops,YouTube,2,4,Yes
+13/09/2025 17:28:49,R2885,40,Female,Hyderabad,Homemaker,8000,"Vintage, Ethnic, Formal","Denim blue, White, Pastels",Local market,Celebrities,16,2,No
+24/09/2025 14:24:47,R2090,39,Prefer not to say,Hyderabad,Working professional,₹3000,Ethnic,"Red, White",Brand store,Celebrities,2,1,Yes
+31/08/2025 19:51:15,R2645,43,male,kolkata,Homemaker,10k,"Vintage, Streetwear","Neon, Denim blue",Brand store,Instagram,14,,Yes
+22/08/2025 8:47:14,R2220,17,Prefer not to say,Bengaluru,Homemaker,₹5000,"Boho, Vintage","Pastels, Red, Earthy tones",Amazon,Pinterest,,5,N
+26/09/2025 8:47:13,R2411,22,Prefer not to say,Kolkata,Working professional,2000,"Y2K, Formal","Beige, Black",Meesho,Pinterest,3,3,yes
+04/08/2025 18:52:48,R2829,35,Female,Lucknow,Student,8000,"Boho, Y2K, Vintage","Neon, White",Brand store,Street style,6,1,Yes
+05/09/2025 8:54:51,R2336,18,male,Patna,Entrepreneur,1000-2000,"Y2K, Streetwear, Athleisure",Pastels,Myntra,Magazines,5,2,No
+16/08/2025 12:39:27,R2854,,male,Bengaluru,Freelancer,8000,"Athleisure, Vintage, Boho",Neon,Meesho,Friends,13,4,No
+25/08/2025 12:41:42,R2538,N/A,Male,Pune,Entrepreneur,2000,Ethnic,"Red, Denim blue",Meesho,Magazines,12,2,Y
+23/09/2025 22:10:40,R2621,35,Prefer not to say,Hyderabad,Freelancer,10000,"Ethnic, Athleisure, Formal","Black, White",Myntra,Street style,20,3,N
+15/09/2025 11:14:37,R2053,28,Female,Kolkata,Freelancer,8000,"Streetwear, Minimalist",Beige,Meesho,Celebrities,8,,N
+25/08/2025 20:45:13,R2611,39,Female,Lucknow,Freelancer,1000,Ethnic,"Beige, Earthy tones",Myntra,Pinterest,5,3,Yes
+16/09/2025 19:37:51,R2802,43,Male,Delhi,Entrepreneur,,Vintage,White,Instagram shops,Celebrities,7,5,Yes
+29/08/2025 18:35:36,R2050,44,Non-binary,Lucknow,Freelancer,1000,Boho,"Denim blue, Red, White",Local market,Pinterest,24,,yes
+13/09/2025 16:32:18,R2326,25,Prefer not to say,KOLKATA,Entrepreneur,,Boho,"Beige, Neon",Instagram shops,Friends,22,5,No
+22/09/2025 11:10:58,R2860,29,Non-binary,Kolkata,Homemaker,3000,"Streetwear, Y2K, Boho","White, Beige, Pastels",Instagram shops,Friends,,3,Yes
+01/08/2025 10:21:15,R2083,18,non-binary,Pune,Working professional,3k,"Minimalist, Ethnic, Y2K","Denim blue, Pastels, White",Ajio,YouTube,,2,Yes
+14/08/2025 10:25:19,R2458,28,Male,Delhi,Student,5000,"Athleisure, Ethnic","Beige, Earthy tones",Brand store,Instagram,17,4,yes
+07/09/2025 15:23:39,R2353,40,Non-binary,Patna,Student,15000,"Formal, Y2K","White, Beige",Amazon,Pinterest,,5,Maybe
+07/08/2025 15:24:18,R2656,44,Prefer not to say,Lucknow,Freelancer,1000,"Minimalist, Formal, Athleisure","Black, Red, Pastels",Instagram shops,Pinterest,12,5,Maybe
+17/09/2025 11:35:41,R2842,39,Non-binary,Lucknow,Homemaker,₹8000,Ethnic,"Beige, Pastels, Black",Brand store,Instagram,,4,Y
+25/09/2025 11:35:58,R2167,26,Female, Delhi ,Entrepreneur,,"Streetwear, Athleisure",White,Brand store,Celebrities,,1,Y
+22/09/2025 22:31:56,R2139,21,Male,Mumbai,Student,15000,"Streetwear, Formal","Beige, Denim blue, Earthy tones",Brand store,Magazines,,5,Yes
+22/08/2025 8:15:38,R2634,33,Female,Bengaluru,Homemaker,2000,"Y2K, Minimalist","Pastels, Red",Meesho,Instagram,2,4,Yes
+21/09/2025 14:27:29,R2184,20,Female,Patna,Working professional,2000,"Vintage, Minimalist","Pastels, Black",Instagram shops,Friends,9,1,No
+04/08/2025 14:27:56,R2867,twenty two,Male,Lucknow,Working professional,₹8000,"Minimalist, Formal",Black,Instagram shops,Magazines,22,,Yes
+23/09/2025 16:45:19,R2295,41,Non-binary,Delhi,Working professional,2000,Boho,White,Meesho,Magazines,21,1,Yes
+25/09/2025 21:52:29,R2423,34,Female,Mumbai,Student,10000,"Boho, Ethnic","Denim blue, Pastels, Black",Myntra,Magazines,8,,No
+18/08/2025 19:31:52,R2618,38,male,Lucknow,Entrepreneur,5000,"Boho, Ethnic, Formal","Red, Pastels",Myntra,Friends,23,,Yes
+01/08/2025 18:18:26,R2576,18,Female,Mumbai,Student,2000,Athleisure,Pastels,Brand store,Instagram,18,1,Yes
+21/08/2025 8:35:17,R2848,30,Male,Lucknow,Student,,"Boho, Vintage, Minimalist","Earthy tones, Denim blue",Local market,YouTube,16,1,N
+02/08/2025 12:31:16,R2384,25,Non-binary,Hyderabad,Working professional,15000,"Vintage, Formal","Pastels, Beige",Amazon,Instagram,22,2,Yes
+14/08/2025 8:58:23,R2633,,Prefer not to say,BENGALURU,Student,10000,"Athleisure, Minimalist, Ethnic","Earthy tones, Black",Brand store,YouTube,11,5,Y
+25/09/2025 16:56:43,R2895,39,Male,Kolkata,Homemaker,3000-4000,"Athleisure, Vintage, Y2K",Pastels,Brand store,Celebrities,10,5,Y
+24/08/2025 10:41:32,R2362,40,Male,Kolkata,Freelancer,10000,Minimalist,"White, Pastels, Black",Myntra,Street style,2,1,Yes
+20/08/2025 15:39:58,R2770,20,Non-binary,Kolkata,Student,1000,Formal,Neon,Local market,Friends,7,5,yes
+07/09/2025 18:40:39,R2324,36,non-binary,Pune,Entrepreneur,₹2000,"Formal, Athleisure, Streetwear","Red, Neon, Pastels",Local market,Instagram,3,2,Yes
+09/09/2025 9:25:58,R2812,,Male,patna,Freelancer,2k,Athleisure,"Red, Earthy tones",Instagram shops,Magazines,20,5,N
+30/08/2025 17:39:13,R2654,17,F,Patna,Student,5000,Y2K,Black,Brand store,Instagram,21,4,Maybe
+09/09/2025 9:40:30,R2824,34,Prefer not to say,Kolkata,Working professional,10000,"Boho, Athleisure, Streetwear","Black, Red",Meesho,Pinterest,,3,No
+17/09/2025 16:17:36,R2754,43,prefer not to say,Pune,Working professional,1000,Boho,"Pastels, Neon, Denim blue",Brand store,Pinterest,17,4,yes
+08/08/2025 21:12:14,R2640,43,Male,Delhi,Entrepreneur,10000,"Vintage, Y2K, Boho",Earthy tones,Ajio,Celebrities,4,5,No
+22/09/2025 19:21:23,R2504,22 yrs,Female,hyderabad,Homemaker,3000,"Y2K, Boho, Ethnic",Red,Myntra,Pinterest,13,1,Maybe
+18/09/2025 20:21:35,R2213,29,Prefer not to say,Bengaluru,Entrepreneur,2k,"Y2K, Streetwear","Neon, Earthy tones",Brand store,YouTube,1,3,Y
+15/09/2025 9:34:16,R2472,40,Female,Mumbai,Working professional,3000,"Athleisure, Streetwear, Formal",Pastels,Ajio,Pinterest,5,5,Y
+22/09/2025 21:58:38,R2399,25,non-binary,Pune,Entrepreneur,1000,"Streetwear, Minimalist, Formal","Beige, White, Neon",Instagram shops,Celebrities,6,3,No
+07/08/2025 15:43:14,R2031,20,Prefer not to say,mumbai,Freelancer,1000,Vintage,"White, Neon, Pastels",Brand store,Friends,14,5,Y
+04/08/2025 17:16:10,R2304,25,Female,Pune,Working professional,15000-16000,"Streetwear, Formal, Ethnic","Earthy tones, Black, White",Amazon,Magazines,13,3,Y
+13/08/2025 8:25:10,R2766,23,female, Delhi ,Entrepreneur,5000,"Minimalist, Formal, Boho","Pastels, Beige, White",Instagram shops,Magazines,14,4,No
+01/08/2025 9:24:25,R2890,17,non-binary,DELHI,Entrepreneur,1000,"Formal, Athleisure","Neon, Beige",Meesho,Street style,,4,Maybe
+16/08/2025 17:52:23,R2776,43,Female,Kolkata,Freelancer,₹3000,Minimalist,"Black, Pastels, Denim blue",Amazon,YouTube,21,3,No
+27/09/2025 15:14:37,R2649,,Prefer not to say,Lucknow,Working professional,₹2000,Athleisure,Denim blue,Amazon,Pinterest,17,2,N
+28/08/2025 10:53:26,R2203,43,non-binary,Kolkata,Entrepreneur,8000,"Streetwear, Formal, Vintage","White, Beige, Red",Ajio,Friends,9,3,No
+18/08/2025 15:42:24,R2406,18,Non-binary,Kolkata,Entrepreneur,8000,"Ethnic, Minimalist, Athleisure","Red, Denim blue",Meesho,Street style,24,1,Y
+15/08/2025 13:21:10,R2775,28,Non-binary,Lucknow,Homemaker,,"Ethnic, Minimalist, Vintage",Pastels,Amazon,YouTube,24,5,No
+17/08/2025 11:40:43,R2820,17,Male,Hyderabad,Freelancer,5000,Y2K,White,Instagram shops,Magazines,,4,yes
+23/08/2025 14:48:20,R2635,20,Male,Pune,Entrepreneur,15000-16000,"Y2K, Ethnic, Streetwear","Beige, Denim blue",Brand store,Celebrities,23,3,Maybe
+09/08/2025 19:45:53,R2135,29,Non-binary,DELHI,Working professional,10000,Y2K,"Pastels, Black, Red",Ajio,YouTube,24,,Yes
+10/09/2025 17:34:22,R2455,31,Male,Patna,Freelancer,2000-3000,"Boho, Vintage, Athleisure","Earthy tones, Denim blue",Amazon,Magazines,4,1,No
+18/09/2025 16:12:39,R2783,38,Prefer not to say,Mumbai,Student,1000-2000,Formal,"Black, White",Brand store,YouTube,4,2,Yes
+08/09/2025 21:38:56,R2697,25,male,Bengaluru,Freelancer,2000,Boho,"Pastels, Denim blue",Ajio,Celebrities,,2,yes
+07/08/2025 16:39:22,R2374,29,Female,Patna,Homemaker,₹2000,Vintage,Pastels,Brand store,Friends,11,3,Maybe
+05/09/2025 15:45:42,R2810,5,male,Hyderabad,Homemaker,2000,"Formal, Athleisure","Beige, White, Neon",Myntra,Instagram,12,2,yes
+12/09/2025 15:30:33,R2735,27,Non-binary,Mumbai,Freelancer,10000,Formal,"Denim blue, Pastels",Brand store,Street style,12,1,No
+17/08/2025 14:37:10,R2269,26,Prefer not to say, Lucknow ,Homemaker,15000,Streetwear,Beige,Brand store,Magazines,21,3,Yes
+22/08/2025 8:57:41,R2101,18,Male,Hyderabad,Student,,"Boho, Formal","Neon, Beige",Amazon,Celebrities,14,3,Maybe
+26/08/2025 14:32:29,R2768,36,Non-binary,mumbai,Homemaker,15k,Y2K,"White, Red, Denim blue",Amazon,YouTube,23,3,No
+11/08/2025 19:41:25,R2833,,Prefer not to say,Delhi,Homemaker,5000,"Ethnic, Streetwear, Athleisure","Pastels, White, Denim blue",Amazon,Pinterest,9,5,No
+01/08/2025 17:38:31,R2892,32,Non-binary,Pune,Freelancer,2000,"Boho, Minimalist, Formal",Black,Amazon,Celebrities,12,2,No
+27/08/2025 13:13:23,R2615,28,Non-binary,DELHI,Student,,"Minimalist, Streetwear","Black, White, Earthy tones",Brand store,Celebrities,8,5,No
+26/09/2025 18:38:45,R2340,32,Female,MUMBAI,Homemaker,₹2000,"Boho, Formal, Streetwear","Earthy tones, Denim blue, Beige",Brand store,Friends,16,2,Maybe
+18/08/2025 12:20:26,R2212,150,Prefer not to say,Patna,Entrepreneur,1000-2000,"Athleisure, Minimalist","Black, Red, Pastels",Myntra,Pinterest,19,,N
+01/08/2025 18:39:49,R2008,22,Prefer not to say,Kolkata,Entrepreneur,2000-3000,"Formal, Streetwear, Vintage","Black, Earthy tones",Instagram shops,Celebrities,1,1,Maybe
+05/09/2025 21:15:15,R2345,34,Male,kolkata,Entrepreneur,₹1000,Vintage,"Red, White",Meesho,Celebrities,,5,No
+20/09/2025 21:20:26,R2108,42,Non-binary, Delhi ,Entrepreneur,₹8000,"Streetwear, Y2K, Formal","Black, Denim blue",Ajio,YouTube,19,2,Yes
+08/08/2025 15:23:42,R2805,37,Female,Bengaluru,Freelancer,₹10000,"Minimalist, Vintage","Denim blue, White, Beige",Brand store,Street style,7,2,Yes
+12/08/2025 16:50:15,R2866,38,Female,Lucknow,Entrepreneur,10000,Ethnic,Red,Myntra,Instagram,6,5,N
+05/09/2025 13:21:30,R2176,40,Non-binary,Hyderabad,Freelancer,2000-3000,Y2K,"Neon, Denim blue, Red",Myntra,Magazines,12,3,N
+19/09/2025 17:32:14,R2577,26,Non-binary,bengaluru,Student,,"Formal, Boho, Minimalist",Earthy tones,Meesho,Instagram,15,5,N
+02/08/2025 9:44:53,R2401,28,Non-binary,lucknow,Working professional,5k,"Athleisure, Vintage, Boho","Red, Beige, Neon",Instagram shops,YouTube,18,4,yes
+26/09/2025 13:40:17,R2248,36,male,Patna,Freelancer,15000,"Boho, Ethnic, Y2K","Pastels, Earthy tones",Instagram shops,Friends,7,4,No
+05/09/2025 18:53:23,R2045,28,Male,Kolkata,Working professional,15000,"Formal, Minimalist, Y2K","Earthy tones, Pastels",Myntra,Street style,12,1,N
+28/08/2025 16:54:15,R2159,31,Prefer not to say,Kolkata,Entrepreneur,,Athleisure,"Earthy tones, White, Pastels",Brand store,Celebrities,9,3,N
+04/08/2025 8:49:10,R2266,18,Prefer not to say,Bengaluru,Freelancer,₹5000,"Boho, Formal",Pastels,Instagram shops,Magazines,13,3,Yes
+09/09/2025 16:38:31,R2320,18,Female,PATNA,Entrepreneur,10000,"Athleisure, Minimalist","Denim blue, Beige",Ajio,YouTube,10,3,No
+03/09/2025 22:47:40,R2716,38,Prefer not to say,hyderabad,Homemaker,2000,"Formal, Y2K","White, Black",Local market,Instagram,13,1,Maybe
+25/08/2025 11:10:20,R2080,40,prefer not to say,Bengaluru,Entrepreneur,8000,"Vintage, Streetwear, Y2K",Black,Myntra,Street style,24,4,Y
+22/09/2025 11:25:16,R2636,40,female,Delhi,Homemaker,15000,"Boho, Vintage, Ethnic","Neon, Beige",Brand store,Magazines,23,1,N
+18/09/2025 12:18:44,R2881,34,Male, Bengaluru ,Working professional,5000,Minimalist,Black,Instagram shops,Pinterest,4,4,N
+27/08/2025 11:53:37,R2268,41,prefer not to say,Bengaluru,Working professional,2000,Formal,"Black, Neon",Ajio,Friends,15,2,No
+28/08/2025 21:40:18,R2559,40,prefer not to say, Patna ,Homemaker,2000,"Vintage, Minimalist, Ethnic","Pastels, Denim blue, Beige",Local market,Instagram,2,5,N
+19/09/2025 16:46:13,R2632,23,Male,Kolkata,Homemaker,5000,Vintage,White,Myntra,YouTube,13,3,Yes
+06/08/2025 8:25:15,R2700,26,Male,hyderabad,Working professional,15000,Boho,"Pastels, Denim blue",Ajio,Street style,10,4,yes
+26/08/2025 16:46:42,R2267,20,prefer not to say,LUCKNOW,Entrepreneur,10000-11000,Vintage,"Denim blue, Pastels",Ajio,YouTube,13,1,Yes
+11/09/2025 19:53:42,R2097,35,Female,bengaluru,Working professional,15000,"Minimalist, Vintage, Athleisure",Earthy tones,Ajio,Friends,23,4,yes
+03/08/2025 17:34:56,R2850,22,non-binary, Delhi ,Student,3000,"Vintage, Ethnic, Athleisure","Denim blue, Neon",Meesho,Celebrities,4,5,Yes
+02/09/2025 18:40:27,R2855,21,Non-binary,Delhi,Homemaker,15000,Athleisure,"Neon, White, Beige",Brand store,Instagram,8,1,Yes
+15/08/2025 13:23:36,R2249,22,Male,Patna,Entrepreneur,1000,"Ethnic, Vintage",Earthy tones,Ajio,Magazines,14,5,Y
+16/09/2025 18:25:38,R2018,42,Female,PATNA,Working professional,,Vintage,Red,Amazon,Friends,5,3,No
+12/09/2025 21:27:30,R2145,23,Prefer not to say,Lucknow,Working professional,15000,Streetwear,"Earthy tones, White",Local market,Street style,24,3,Maybe
+17/08/2025 21:47:25,R2061,34,Non-binary,Lucknow,Working professional,1000,"Formal, Minimalist, Ethnic",Pastels,Ajio,Instagram,7,1,No
+18/08/2025 9:25:54,R2166,-3,M,Hyderabad,Student,10k,"Streetwear, Athleisure, Vintage",Earthy tones,Amazon,Friends,,1,Maybe
+04/08/2025 9:27:46,R2025,35,Non-binary,Bengaluru,Homemaker,10000,"Streetwear, Ethnic, Athleisure","Beige, Denim blue",Local market,Friends,21,3,No
+02/08/2025 9:22:37,R2539,32,Non-binary,Kolkata,Homemaker,1000,Minimalist,"Black, Pastels, Neon",Instagram shops,Friends,1,3,Yes
+25/08/2025 18:53:46,R2477,35,Female,Pune,Entrepreneur,1000,"Minimalist, Vintage, Athleisure",Pastels,Myntra,Street style,10,4,No
+25/09/2025 14:37:16,R2620,29,Non-binary,Bengaluru,Working professional,3000,"Boho, Y2K","Pastels, White",Myntra,Instagram,5,5,No
+08/09/2025 18:23:39,R2071,,Prefer not to say,Lucknow,Student,5000,Vintage,"Beige, Earthy tones, Denim blue",Meesho,YouTube,20,1,N
+08/09/2025 17:42:56,R2275,5,Prefer not to say,DELHI,Entrepreneur,10000,Formal,Black,Instagram shops,Friends,6,1,Y
+08/09/2025 21:40:17,R2868,21,Female,Hyderabad,Homemaker,2000,Boho,"Red, Earthy tones, Pastels",Brand store,Celebrities,7,5,yes
+04/09/2025 14:11:28,R2625,19,Non-binary,Bengaluru,Freelancer,15000-16000,"Y2K, Boho",Pastels,Amazon,Street style,20,5,No
+06/08/2025 19:18:15,R2694,17,Non-binary,Hyderabad,Working professional,1000,"Athleisure, Formal, Streetwear","Beige, Denim blue, Pastels",Ajio,Celebrities,,5,No
+21/08/2025 15:35:17,R2169,,Male,Hyderabad,Working professional,₹15000,"Y2K, Formal, Streetwear",Black,Instagram shops,Street style,7,3,N
+01/09/2025 18:21:21,R2075,28,Prefer not to say,Lucknow,Freelancer,3000-4000,"Vintage, Formal, Y2K","Pastels, Earthy tones, Denim blue",Myntra,Friends,16,2,Y
+26/09/2025 12:49:17,R2521,33,Prefer not to say,kolkata,Freelancer,2000,"Ethnic, Athleisure, Formal","Red, White, Denim blue",Instagram shops,Instagram,11,1,No
+01/09/2025 10:37:15,R2674,39,Prefer not to say,Kolkata,Freelancer,,"Minimalist, Formal","Earthy tones, Red",Brand store,Magazines,14,2,N
+12/08/2025 22:10:38,R2305,42,female,Lucknow,Entrepreneur,1000,Streetwear,"Earthy tones, White",Myntra,Celebrities,24,5,yes
+27/09/2025 13:40:36,R2558,N/A,Prefer not to say,Hyderabad,Student,15000,"Vintage, Boho",White,Ajio,Magazines,9,4,Maybe
+22/08/2025 8:22:27,R2348,22 yrs,Female,bengaluru,Freelancer,8000-9000,"Minimalist, Streetwear","Beige, White",Ajio,Magazines,20,3,No
+15/09/2025 20:40:45,R2590,40,Non-binary,Bengaluru,Freelancer,15000,Minimalist,"Red, Beige, Denim blue",Ajio,YouTube,19,4,N
+29/08/2025 22:45:55,R2796,37,Female,Mumbai,Entrepreneur,₹1000,"Athleisure, Streetwear","White, Neon",Myntra,Pinterest,4,3,Yes
+02/08/2025 15:13:20,R2350,43,Male,Hyderabad,Entrepreneur,3000,Streetwear,"Earthy tones, White",Myntra,Celebrities,,5,Maybe
+15/09/2025 19:37:27,R2495,20,Female,kolkata,Homemaker,,"Athleisure, Vintage, Minimalist","Black, White, Denim blue",Brand store,Magazines,9,5,Yes
+01/09/2025 10:57:15,R2687,35,Male,DELHI,Student,10000,Minimalist,"Pastels, Neon, Earthy tones",Amazon,Celebrities,3,4,yes
+13/08/2025 20:40:23,R2465,23,Female, Mumbai ,Working professional,1000,"Vintage, Ethnic",Neon,Amazon,Friends,3,4,N
+29/08/2025 17:52:23,R2068,26,male,Mumbai,Student,,Minimalist,"Neon, Black",Ajio,Magazines,14,5,Y
+16/09/2025 12:11:23,R2614,35,female,Mumbai,Working professional,15000,Vintage,Earthy tones,Meesho,Street style,12,1,Maybe
+21/08/2025 13:58:13,R2276,27,Female,Pune,Student,1000,"Ethnic, Streetwear","Denim blue, Pastels, Red",Local market,Street style,23,3,No
+22/08/2025 8:21:54,R2378,150,Prefer not to say,Hyderabad,Working professional,₹5000,"Streetwear, Y2K, Minimalist","Denim blue, White",Amazon,Friends,22,5,No
+24/08/2025 20:19:50,R2383,35,Female,Patna,Working professional,5000,Ethnic,"White, Earthy tones, Black",Amazon,YouTube,15,5,Maybe
+04/09/2025 12:44:30,R2175,19,prefer not to say,kolkata,Freelancer,1k,Minimalist,"Red, White",Ajio,Street style,3,,Maybe
+24/09/2025 9:54:31,R2216,19,M,Lucknow,Homemaker,1000,"Formal, Boho, Y2K","Red, Earthy tones, Black",Myntra,Pinterest,16,1,No
+29/08/2025 20:10:23,R2395,41,Female,pune,Working professional,15000,Ethnic,White,Ajio,Pinterest,1,,Yes
+15/08/2025 18:12:10,R2891,32,Prefer not to say,Hyderabad,Homemaker,10000,"Boho, Minimalist",Pastels,Amazon,YouTube,13,2,No
+30/08/2025 8:20:41,R2550,41,Male,Lucknow,Entrepreneur,₹5000,Formal,White,Meesho,Celebrities,7,5,Yes
+09/08/2025 13:52:19,R2523,,Prefer not to say,Pune,Freelancer,2000,Ethnic,"Black, White, Neon",Ajio,Instagram,21,3,Yes
+09/09/2025 10:58:48,R2482,43,Male,Pune,Student,1000,"Y2K, Boho","Black, Neon, Beige",Meesho,Magazines,12,5,Y
+16/09/2025 15:27:30,R2420,25,Female,hyderabad,Working professional,3000,Streetwear,"Black, White",Ajio,Street style,19,,Maybe
+10/08/2025 11:30:50,R2177,40,Non-binary,Lucknow,Homemaker,5000,Formal,White,Myntra,Street style,,5,Maybe
+01/08/2025 21:19:38,R2202,35,Non-binary,Pune,Working professional,5000,"Formal, Boho",Beige,Myntra,Instagram,2,,Yes
+20/09/2025 14:54:58,R2836,,Female,KOLKATA,Working professional,8000,"Y2K, Minimalist",White,Amazon,Instagram,13,2,N
+01/08/2025 14:41:23,R2788,35,Female,Hyderabad,Entrepreneur,1000,Athleisure,Denim blue,Brand store,Friends,7,2,Y
+16/09/2025 13:57:49,R2003,25,Prefer not to say,Pune,Working professional,8000,Ethnic,"Beige, Black, Pastels",Brand store,Friends,10,3,No
+09/09/2025 15:54:25,R2263,34,Non-binary,Delhi,Working professional,15000,Ethnic,Denim blue,Brand store,Magazines,2,3,N
+22/08/2025 20:33:42,R2769,26,Male,Bengaluru,Homemaker,5000-6000,"Boho, Vintage","Denim blue, Pastels, Red",Amazon,YouTube,9,2,No
+14/09/2025 21:11:48,R2652,18,Prefer not to say,Patna,Homemaker,₹3000,Ethnic,"Beige, Pastels",Amazon,Street style,8,2,No
+26/08/2025 19:57:13,R2574,37,Non-binary,Hyderabad,Homemaker,3000,Streetwear,"Beige, White",Myntra,Street style,17,5,Y
+15/08/2025 10:43:14,R2261,,Female,Lucknow,Entrepreneur,₹5000,"Ethnic, Athleisure","Beige, Denim blue",Meesho,Magazines,1,5,Maybe
+26/09/2025 17:56:11,R2251,18,Prefer not to say,Delhi,Freelancer,1000,"Athleisure, Streetwear","Earthy tones, Pastels, Beige",Instagram shops,Friends,20,3,Yes
+30/08/2025 12:33:14,R2397,25,Male,Pune,Student,1000,Formal,Beige,Meesho,Magazines,10,4,Maybe
+05/09/2025 14:28:40,R2093,32,prefer not to say,Pune,Freelancer,2000,Ethnic,"Beige, Earthy tones",Amazon,Magazines,16,5,Yes
+21/08/2025 21:34:49,R2544,32,Prefer not to say,delhi,Student,15000-16000,"Y2K, Boho, Minimalist",Beige,Brand store,Pinterest,17,1,Y
+14/09/2025 14:29:47,R2226,,prefer not to say,Hyderabad,Entrepreneur,15000,Boho,"Earthy tones, White, Red",Brand store,Instagram,6,5,Yes
+08/08/2025 16:32:12,R2024,28,Prefer not to say, Mumbai ,Homemaker,,"Vintage, Formal, Minimalist","Black, Red",Brand store,Pinterest,23,5,Yes
+13/08/2025 16:43:54,R2526,27,Female,Hyderabad,Entrepreneur,15000,Ethnic,"Neon, Earthy tones, Pastels",Local market,Friends,20,2,Yes
+07/09/2025 10:57:44,R2503,42,Female,Delhi,Freelancer,3000,"Vintage, Formal, Streetwear","White, Denim blue",Local market,Street style,8,5,No
+16/08/2025 13:43:40,R2721,,Male,Patna,Homemaker,10000,Ethnic,Black,Meesho,Friends,15,5,Yes
+07/08/2025 14:46:16,R2200,25,Prefer not to say,Patna,Freelancer,15000,"Y2K, Formal, Vintage",Neon,Amazon,Street style,,2,Y
+06/09/2025 8:25:12,R2595,17,Non-binary,Delhi,Homemaker,5000,"Formal, Boho","Neon, Denim blue",Amazon,Instagram,15,4,yes
+03/08/2025 13:44:17,R2015,36,Prefer not to say,Mumbai,Working professional,5000,Ethnic,Beige,Meesho,Magazines,16,3,N
+20/09/2025 17:43:13,R2257,17,male,pune,Freelancer,15000,"Formal, Y2K","Pastels, Black, Beige",Brand store,YouTube,10,3,No
+25/09/2025 10:33:36,R2786,-3,Non-binary,patna,Homemaker,,"Y2K, Streetwear, Ethnic",White,Meesho,Instagram,7,4,Yes
+23/09/2025 20:16:42,R2014,19,Non-binary,Patna,Entrepreneur,1000,Boho,"Red, White, Pastels",Meesho,Friends,2,3,Yes
+06/09/2025 14:39:19,R2333,,Non-binary,Hyderabad,Student,,"Streetwear, Minimalist",Black,Amazon,Magazines,14,4,Y
+14/09/2025 18:45:56,R2229,29,Prefer not to say,Bengaluru,Student,5000,"Athleisure, Minimalist","Neon, Beige, Earthy tones",Ajio,Pinterest,13,,Y
+09/09/2025 9:37:58,R2689,25,Female,Hyderabad,Freelancer,5000,"Ethnic, Y2K, Streetwear","White, Neon, Beige",Ajio,Pinterest,4,3,yes
+27/09/2025 8:51:53,R2567,28,non-binary, Pune ,Student,3000,"Vintage, Formal, Minimalist","Pastels, Beige, Denim blue",Local market,YouTube,5,3,yes
+18/08/2025 13:44:27,R2239,25,Prefer not to say,Hyderabad,Entrepreneur,₹2000,Formal,"Red, Pastels",Amazon,Magazines,4,1,Yes
+23/08/2025 16:43:53,R2571,,Male,HYDERABAD,Freelancer,,Athleisure,"White, Pastels, Earthy tones",Meesho,Street style,5,5,Yes
+23/09/2025 10:34:40,R2845,30,non-binary,MUMBAI,Homemaker,5000-6000,"Boho, Vintage, Streetwear","Denim blue, Earthy tones",Instagram shops,Street style,17,3,No
+04/09/2025 12:44:30,R2175,19,prefer not to say,kolkata,Freelancer,1k,Minimalist,"Red, White",Ajio,Street style,3,,Maybe
+21/09/2025 16:53:40,R2883,42,Non-binary,Bengaluru,Homemaker,15000,"Minimalist, Formal, Streetwear","White, Pastels",Amazon,Street style,24,3,Maybe
+11/08/2025 12:53:22,R2568,19,Prefer not to say,Pune,Working professional,10000-11000,"Minimalist, Athleisure","Denim blue, White, Earthy tones",Local market,Pinterest,4,1,Yes
+07/08/2025 9:54:41,R2665,19,Prefer not to say,Patna,Homemaker,10000,"Athleisure, Formal",Earthy tones,Meesho,Instagram,4,4,Maybe
+12/08/2025 16:45:47,R2099,31,prefer not to say,Kolkata,Student,₹2000,"Ethnic, Formal, Streetwear","Pastels, White",Amazon,Instagram,19,2,yes
+18/09/2025 20:21:13,R2624,31,Prefer not to say,Mumbai,Student,,Ethnic,Black,Instagram shops,Pinterest,2,1,yes
+11/08/2025 21:11:27,R2876,20,female, Kolkata ,Entrepreneur,10k,"Vintage, Streetwear",Earthy tones,Meesho,Instagram,14,2,Maybe
+06/08/2025 13:40:48,R2755,18,Non-binary,hyderabad,Working professional,15000,Boho,"Neon, Earthy tones, Denim blue",Myntra,Street style,1,4,No
+12/08/2025 21:16:40,R2596,31,Prefer not to say,Mumbai,Student,8000,Athleisure,"Denim blue, Earthy tones",Amazon,Instagram,19,3,Yes
+01/09/2025 10:57:49,R2316,25,male,Mumbai,Student,2000,Y2K,"Denim blue, Neon, Beige",Ajio,Celebrities,5,1,Maybe
+23/09/2025 12:34:33,R2756,41,Female,PUNE,Freelancer,10000,Streetwear,"Denim blue, Neon",Instagram shops,YouTube,4,2,Maybe
+08/08/2025 22:53:19,R2271,36,Prefer not to say,Delhi,Homemaker,8k,Athleisure,"Red, Beige",Amazon,YouTube,2,,Yes
+06/09/2025 10:49:34,R2057,40,Prefer not to say,Delhi,Homemaker,10000,Athleisure,"Red, Earthy tones, Black",Meesho,Friends,3,3,N
+22/08/2025 20:34:57,R2685,39,Male, Mumbai ,Working professional,10000,Y2K,"Neon, Black",Brand store,Instagram,15,1,N
+09/09/2025 15:32:35,R2794,20,non-binary,Patna,Homemaker,1000,"Boho, Ethnic, Y2K","Black, Pastels, Earthy tones",Meesho,YouTube,16,1,yes
+12/08/2025 13:16:40,R2123,20,Non-binary,Kolkata,Entrepreneur,₹1000,Boho,"Pastels, Black",Amazon,Friends,15,2,No
+07/08/2025 18:43:49,R2511,36,Non-binary, Hyderabad ,Freelancer,₹3000,"Minimalist, Y2K","Beige, Pastels",Local market,Instagram,16,2,yes
+30/08/2025 21:22:47,R2144,41,Female,Bengaluru,Entrepreneur,1k,"Athleisure, Boho","Neon, Earthy tones, Denim blue",Brand store,Celebrities,2,2,yes
+01/08/2025 15:19:58,R2789,43,non-binary,PUNE,Working professional,8000,"Boho, Ethnic, Y2K","White, Pastels",Brand store,YouTube,,2,No
+08/08/2025 8:39:17,R2747,32,Prefer not to say,Bengaluru,Homemaker,,"Athleisure, Vintage","Earthy tones, Pastels, Neon",Instagram shops,Street style,19,4,yes
+16/09/2025 17:49:47,R2158,21,Male,Delhi,Homemaker,,Boho,Denim blue,Amazon,Street style,16,,Y
+10/09/2025 9:14:31,R2381,40,Female,Pune,Entrepreneur,2000,Vintage,"Red, Neon, Beige",Meesho,Instagram,19,2,Y
+05/08/2025 9:54:33,R2117,28,F,LUCKNOW,Homemaker,5000,"Streetwear, Ethnic, Formal","Denim blue, Earthy tones, Pastels",Amazon,Pinterest,22,4,No
+16/09/2025 8:50:57,R2467,18,Male,Mumbai,Entrepreneur,10000,Vintage,"Denim blue, Neon, Earthy tones",Brand store,Street style,18,2,yes
+06/08/2025 14:20:55,R2398,22,Prefer not to say,Kolkata,Freelancer,₹15000,"Ethnic, Vintage, Athleisure","Earthy tones, Pastels, Neon",Myntra,Pinterest,5,2,Yes
+22/09/2025 19:16:24,R2317,25,Non-binary,LUCKNOW,Homemaker,3000,"Formal, Ethnic, Y2K","White, Earthy tones, Red",Instagram shops,Instagram,6,5,No
+16/08/2025 12:27:21,R2088,36,male,Lucknow,Working professional,5000,"Streetwear, Minimalist, Y2K","Red, Neon",Myntra,Street style,17,,yes
+23/08/2025 12:22:56,R2168,41,Female,Hyderabad,Working professional,15k,"Streetwear, Boho",Earthy tones,Ajio,Magazines,10,4,Yes
+02/09/2025 8:37:25,R2600,27,Female,hyderabad,Homemaker,8k,"Ethnic, Boho","Beige, Red, Neon",Brand store,Celebrities,2,1,No
+25/09/2025 15:40:45,R2817,25,Non-binary,hyderabad,Freelancer,₹5000,Ethnic,Red,Amazon,Friends,,1,N
+16/09/2025 10:40:42,R2382,41,Male,Pune,Student,15000,Formal,"Pastels, Neon",Brand store,Instagram,13,2,N
+17/08/2025 15:46:25,R2274,42,Female,Lucknow,Working professional,5000-6000,"Streetwear, Minimalist, Ethnic","Neon, Black",Ajio,Pinterest,2,2,N
+20/08/2025 17:48:11,R2006,32,Prefer not to say,Patna,Student,5000,Boho,Beige,Local market,Magazines,20,2,N
+25/09/2025 18:52:42,R2834,34,Non-binary,LUCKNOW,Working professional,8k,Formal,White,Meesho,Instagram,6,2,No
+25/09/2025 11:11:39,R2004,18,Prefer not to say,Pune,Student,2000,"Boho, Ethnic","Pastels, Red, Black",Amazon,Magazines,17,1,N
+06/08/2025 8:24:36,R2319,38,Male,Delhi,Freelancer,₹5000,Athleisure,Red,Ajio,Pinterest,10,4,Yes
+19/09/2025 16:50:13,R2040,33,Prefer not to say,Hyderabad,Entrepreneur,3000,Vintage,"White, Beige, Earthy tones",Instagram shops,Instagram,9,3,yes
+16/08/2025 22:14:17,R2417,19,female,PATNA,Entrepreneur,₹1000,"Streetwear, Vintage","Denim blue, Earthy tones",Ajio,Magazines,1,2,N
+14/09/2025 19:48:32,R2237,28,Non-binary,Bengaluru,Working professional,5000,"Ethnic, Y2K","Earthy tones, Beige",Meesho,Magazines,18,5,No
+22/08/2025 9:29:34,R2210,41,Male,Hyderabad,Entrepreneur,3000,"Minimalist, Y2K, Vintage",White,Meesho,YouTube,,4,yes
+01/09/2025 13:32:11,R2393,23,Prefer not to say,PUNE,Homemaker,15000,"Boho, Ethnic, Minimalist","Neon, Red",Meesho,YouTube,11,1,N
+26/08/2025 16:32:58,R2211,19,Non-binary,Kolkata,Freelancer,3000-4000,"Vintage, Boho",White,Myntra,Street style,8,2,N
+27/08/2025 17:40:14,R2761,18,Prefer not to say,Hyderabad,Homemaker,5000,Vintage,"Beige, Denim blue, Earthy tones",Local market,Friends,,4,Yes
+19/09/2025 19:46:53,R2195,,Non-binary,Delhi,Homemaker,5000,Formal,Pastels,Brand store,Celebrities,24,4,N
+17/08/2025 8:35:19,R2001,N/A,Male, Lucknow ,Working professional,15000,Athleisure,"Red, Denim blue, Black",Myntra,Instagram,12,3,Y
+21/08/2025 12:44:14,R2884,18,female,Delhi,Working professional,1000-2000,"Ethnic, Streetwear, Y2K","Beige, White",Instagram shops,Pinterest,4,4,yes
+22/09/2025 21:40:17,R2644,32,non-binary,Lucknow,Freelancer,3000,Streetwear,"White, Beige, Red",Myntra,Celebrities,15,5,No
+25/09/2025 20:48:27,R2879,25,Female,Lucknow,Student,₹2000,"Ethnic, Vintage, Athleisure","Denim blue, Black, Pastels",Brand store,Street style,13,4,No
+04/09/2025 12:15:32,R2303,30,Prefer not to say, Patna ,Homemaker,₹15000,"Vintage, Ethnic","Black, Red, White",Meesho,Instagram,8,4,Maybe
+19/08/2025 14:16:45,R2064,36,Female,Lucknow,Working professional,10000,Vintage,Beige,Local market,Instagram,21,3,yes
+12/09/2025 12:35:49,R2461,28,Prefer not to say,Bengaluru,Homemaker,₹15000,Formal,"Pastels, White",Amazon,YouTube,4,1,yes
+07/09/2025 14:17:36,R2545,20,non-binary,Pune,Entrepreneur,15000,"Streetwear, Formal, Athleisure","Neon, Black",Amazon,Pinterest,3,4,No
+09/09/2025 20:15:31,R2428,,prefer not to say,Delhi,Homemaker,15000,"Ethnic, Athleisure","Beige, Denim blue, Neon",Instagram shops,Instagram,2,5,No
+18/09/2025 15:48:32,R2363,N/A,female,Patna,Student,₹5000,Ethnic,Black,Meesho,YouTube,13,4,N
+27/09/2025 9:13:10,R2311,28,Non-binary,Hyderabad,Homemaker,3000,"Vintage, Streetwear, Minimalist","Neon, Black",Instagram shops,Friends,10,2,Y
+10/09/2025 16:45:28,R2681,33,Prefer not to say,Pune,Freelancer,3000-4000,"Streetwear, Minimalist, Ethnic","Denim blue, Pastels, White",Amazon,Celebrities,16,4,Maybe
+19/09/2025 8:32:48,R2265,,Female,Pune,Entrepreneur,2000,Minimalist,Denim blue,Amazon,Friends,23,5,Y
+26/09/2025 17:30:51,R2100,43,Non-binary,hyderabad,Freelancer,1000,"Athleisure, Boho","Beige, Denim blue, Pastels",Ajio,Instagram,17,3,Maybe
+02/09/2025 21:42:17,R2098,,Female,Kolkata,Entrepreneur,3000,"Y2K, Streetwear","Earthy tones, Black",Brand store,Instagram,2,1,Maybe
+12/09/2025 18:40:23,R2448,37,Prefer not to say,Patna,Entrepreneur,₹15000,Ethnic,"Pastels, White, Red",Amazon,Pinterest,16,1,Yes
+01/08/2025 9:56:47,R2734,35,Prefer not to say,Bengaluru,Entrepreneur,8000,"Vintage, Y2K, Minimalist","Pastels, Neon, Beige",Brand store,Celebrities,4,4,Yes
+11/09/2025 15:53:52,R2557,42,Female,Mumbai,Working professional,₹5000,"Formal, Boho","Red, White",Ajio,Pinterest,9,1,N
+14/09/2025 16:12:48,R2338,30,Male,Patna,Student,2000,Formal,"Earthy tones, Denim blue",Instagram shops,Magazines,9,1,No
+26/08/2025 21:45:51,R2718,24,Female,Mumbai,Homemaker,₹1000,"Boho, Athleisure",Earthy tones,Instagram shops,YouTube,8,5,Maybe
+26/09/2025 12:48:45,R2277,44,Female,Bengaluru,Entrepreneur,8000,"Y2K, Formal","Beige, Pastels, Black",Instagram shops,YouTube,14,5,Yes
+17/08/2025 15:10:39,R2389,32,Non-binary,HYDERABAD,Freelancer,8000,"Formal, Ethnic",Pastels,Local market,YouTube,9,1,Y
+17/08/2025 21:20:18,R2103,24,Male,KOLKATA,Working professional,10000,"Boho, Formal, Y2K","Denim blue, Beige, Pastels",Amazon,Magazines,14,5,Yes
+10/08/2025 10:19:44,R2196,30,Non-binary,Mumbai,Homemaker,1000,"Streetwear, Formal","Beige, Denim blue, Pastels",Amazon,Street style,,5,yes
+08/09/2025 9:34:36,R2280,39,non-binary,Mumbai,Homemaker,1000,"Formal, Athleisure","Pastels, Earthy tones",Myntra,YouTube,20,2,No
+05/09/2025 13:56:24,R2580,40,Non-binary,PATNA,Homemaker,5000,Minimalist,Pastels,Local market,YouTube,20,,No
+02/09/2025 18:40:27,R2827,18,Non-binary,Hyderabad,Working professional,10000-11000,"Boho, Vintage, Minimalist","Beige, Earthy tones, Red",Myntra,Pinterest,22,4,Maybe
+22/08/2025 16:10:18,R2334,23,Female,hyderabad,Homemaker,2000,"Minimalist, Vintage, Boho","Neon, Beige",Amazon,Street style,3,,Y
+28/09/2025 13:20:51,R2429,38,Non-binary,lucknow,Working professional,5000,"Ethnic, Y2K, Minimalist","Black, Beige, Neon",Local market,Friends,6,3,Y
+05/09/2025 11:15:30,R2162,41,M,Bengaluru,Homemaker,15000,"Minimalist, Athleisure, Vintage","White, Denim blue, Black",Myntra,Magazines,8,5,Yes
+15/09/2025 11:55:37,R2293,,M,Kolkata,Working professional,2000,"Boho, Formal",Beige,Ajio,Street style,2,5,Yes
+12/09/2025 11:42:17,R2643,,Non-binary,Pune,Homemaker,1000,"Boho, Formal, Y2K","Beige, Black, Red",Instagram shops,Magazines,15,,Maybe
+12/08/2025 15:17:57,R2616,38,Non-binary,Delhi,Working professional,8000,Boho,Beige,Myntra,Instagram,13,4,No
+27/09/2025 18:53:54,R2231,31,Non-binary,MUMBAI,Entrepreneur,5000-6000,"Vintage, Minimalist","Red, Beige, Neon",Meesho,Instagram,1,5,Yes
+18/09/2025 16:12:39,R2783,38,Prefer not to say,Mumbai,Student,1000-2000,Formal,"Black, White",Brand store,YouTube,4,2,Yes
+30/08/2025 17:55:11,R2134,44,Non-binary,Hyderabad,Working professional,15000,Vintage,"Neon, Beige, White",Local market,Magazines,11,1,Yes
+23/09/2025 22:54:57,R2520,35,Non-binary,PATNA,Entrepreneur,15000,"Vintage, Boho, Athleisure",Beige,Meesho,Magazines,4,5,No
+24/08/2025 12:40:28,R2341,29,Female,HYDERABAD,Working professional,2000,"Boho, Y2K","Earthy tones, Denim blue",Local market,Street style,9,2,No
+24/08/2025 22:54:31,R2219,18,Female,Pune,Homemaker,5000,"Streetwear, Formal","Neon, Beige",Local market,Instagram,23,5,N
+16/08/2025 17:24:40,R2492,N/A,Female,Bengaluru,Entrepreneur,2000,Athleisure,Beige,Amazon,Street style,20,5,Maybe
+07/09/2025 20:26:24,R2447,38,Non-binary,mumbai,Entrepreneur,₹8000,"Formal, Streetwear","White, Denim blue, Black",Amazon,Instagram,,1,Yes
+08/08/2025 19:49:45,R2893,25,Non-binary,Delhi,Student,2000,Vintage,"Pastels, Earthy tones",Brand store,Pinterest,9,2,Yes
+30/08/2025 20:41:52,R2188,38,Female,Delhi,Entrepreneur,15000,"Ethnic, Formal","Beige, Denim blue",Myntra,YouTube,2,1,Yes
+20/09/2025 12:37:58,R2192,27,Male,Mumbai,Student,8000,"Ethnic, Y2K",Pastels,Instagram shops,Street style,1,3,Y
+23/09/2025 9:15:41,R2142,18,Non-binary,Lucknow,Freelancer,8000,"Minimalist, Formal","Red, White",Ajio,YouTube,14,3,Maybe
+08/09/2025 19:27:22,R2410,26,Male,Lucknow,Student,8k,"Formal, Vintage, Boho",White,Instagram shops,Instagram,7,5,Yes
+01/09/2025 15:58:54,R2298,20,Female,Pune,Student,1000,Vintage,"Black, Red",Local market,Magazines,13,3,Yes
+05/08/2025 17:47:15,R2807,20,male,PATNA,Entrepreneur,₹10000,"Athleisure, Formal, Y2K","Red, Denim blue",Brand store,Pinterest,15,4,Maybe
+24/08/2025 11:21:38,R2301,17,F,Mumbai,Homemaker,5000,"Minimalist, Athleisure",Beige,Local market,Instagram,18,3,yes
+27/08/2025 17:55:26,R2464,27,male,Patna,Freelancer,,Formal,"Earthy tones, Pastels",Amazon,Instagram,7,5,Maybe
+12/08/2025 14:10:43,R2128,41,Prefer not to say,Patna,Entrepreneur,8000,"Boho, Athleisure, Y2K",Beige,Amazon,Celebrities,24,1,Maybe
+20/09/2025 10:52:58,R2160,24,Non-binary,Kolkata,Working professional,5000,Formal,Pastels,Ajio,Celebrities,21,1,No
+27/08/2025 22:50:21,R2356,21,Non-binary,Lucknow,Freelancer,₹8000,"Vintage, Formal, Y2K","Black, Earthy tones, Neon",Amazon,Friends,20,2,Yes
+03/08/2025 9:11:39,R2838,37,Prefer not to say,PUNE,Homemaker,1000-2000,"Athleisure, Formal","Red, Denim blue",Meesho,YouTube,5,5,Y
+12/08/2025 16:31:33,R2661,35,Non-binary,Pune,Working professional,15000,Streetwear,"Black, Red, Pastels",Amazon,Magazines,5,4,yes
+03/08/2025 20:36:50,R2105,30,M,Hyderabad,Homemaker,₹10000,"Streetwear, Y2K, Minimalist","Earthy tones, Beige",Meesho,YouTube,20,2,Yes
+19/08/2025 22:13:20,R2679,21,Female,Hyderabad,Homemaker,2000,"Boho, Athleisure","Pastels, Beige, Earthy tones",Meesho,Pinterest,7,2,No
+18/08/2025 14:45:27,R2822,28,Prefer not to say,Mumbai,Homemaker,1000,Minimalist,"Black, White, Denim blue",Local market,YouTube,5,5,N
+11/08/2025 19:26:19,R2873,25,Female,Delhi,Homemaker,8000,Minimalist,Pastels,Local market,Street style,8,4,Maybe
+20/08/2025 8:18:19,R2235,18,Male,Delhi,Working professional,10000,"Formal, Y2K","Pastels, White, Earthy tones",Meesho,YouTube,,3,No
+04/08/2025 22:24:48,R2085,35,Prefer not to say,kolkata,Freelancer,1000,"Streetwear, Boho","Black, Earthy tones",Brand store,Friends,8,4,N
+23/08/2025 20:55:43,R2365,35,Non-binary, Bengaluru ,Entrepreneur,₹2000,"Boho, Ethnic","Beige, White, Black",Meesho,Friends,10,3,yes
+02/09/2025 22:54:21,R2888,40,Male,Patna,Freelancer,₹15000,"Ethnic, Vintage","Neon, Denim blue, Pastels",Amazon,Street style,12,5,Maybe
+26/09/2025 17:53:32,R2759,32,Prefer not to say,Pune,Homemaker,8000,"Streetwear, Formal, Athleisure","Earthy tones, Denim blue, Neon",Myntra,Celebrities,,2,yes
+24/08/2025 20:42:33,R2882,33,Male,BENGALURU,Student,1000,"Minimalist, Streetwear",Earthy tones,Ajio,Instagram,13,1,No
+10/09/2025 14:48:14,R2582,22 yrs,Prefer not to say, Hyderabad ,Freelancer,1000,Vintage,Neon,Instagram shops,YouTube,13,3,No
+26/08/2025 9:25:31,R2016,N/A,Prefer not to say,HYDERABAD,Student,10000,Ethnic,"Black, White, Earthy tones",Brand store,YouTube,18,5,Yes
+21/09/2025 9:42:47,R2750,,Non-binary,Mumbai,Entrepreneur,5000,"Y2K, Streetwear","Beige, Black, Red",Brand store,Instagram,20,3,No
+26/09/2025 9:44:31,R2046,29,Non-binary,Pune,Freelancer,10000,Y2K,"Pastels, White",Instagram shops,YouTube,22,3,Y
+18/09/2025 22:18:18,R2563,25,Prefer not to say,Delhi,Entrepreneur,15k,Formal,"Red, Earthy tones",Brand store,Pinterest,1,1,Maybe
+27/09/2025 22:36:29,R2344,40,Male,Kolkata,Freelancer,1000,"Y2K, Minimalist, Ethnic",Neon,Myntra,Pinterest,,1,Y
+09/08/2025 18:20:54,R2129,19,Non-binary,Bengaluru,Working professional,2000,"Ethnic, Minimalist, Formal",Pastels,Instagram shops,Street style,22,4,Y
+17/08/2025 14:37:10,R2269,26,Prefer not to say, Lucknow ,Homemaker,15000,Streetwear,Beige,Brand store,Magazines,21,3,Yes
+17/09/2025 9:14:55,R2440,41,Prefer not to say,Pune,Entrepreneur,10000,"Minimalist, Ethnic",White,Brand store,Friends,,5,Yes
+27/08/2025 17:28:44,R2763,22,Female,Patna,Freelancer,2000,"Vintage, Streetwear, Athleisure",Beige,Brand store,Street style,10,4,No
+04/08/2025 11:27:37,R2094,37,Male,kolkata,Entrepreneur,2000,Ethnic,"Red, Pastels",Amazon,Instagram,1,3,Maybe
+08/08/2025 11:27:41,R2468,26,Non-binary,Pune,Freelancer,3000,"Formal, Boho",Denim blue,Myntra,Instagram,10,5,Maybe
+06/09/2025 22:49:34,R2623,31,Female,Lucknow,Homemaker,8000-9000,"Streetwear, Formal","Beige, Pastels, White",Local market,Celebrities,19,5,N
+21/08/2025 21:48:49,R2816,31,Male,Pune,Freelancer,3000-4000,Minimalist,"Denim blue, Earthy tones",Local market,Pinterest,6,1,yes
+23/09/2025 11:18:27,R2513,35,Non-binary,Pune,Homemaker,₹10000,"Ethnic, Vintage, Y2K","Black, Pastels, Neon",Brand store,Magazines,19,4,Maybe
+18/08/2025 20:40:13,R2813,29,Male,Lucknow,Entrepreneur,1000,Ethnic,"Earthy tones, Neon",Local market,Magazines,18,3,No
+19/09/2025 19:46:53,R2195,,Non-binary,Delhi,Homemaker,5000,Formal,Pastels,Brand store,Celebrities,24,4,N
+11/09/2025 19:45:24,R2677,20,Non-binary,Hyderabad,Entrepreneur,10000,Y2K,"Earthy tones, Denim blue, Neon",Local market,Magazines,,3,N
+24/09/2025 11:20:42,R2332,23,Female,MUMBAI,Student,10000,"Vintage, Ethnic","Neon, Earthy tones",Ajio,Celebrities,3,2,yes
+07/09/2025 10:45:17,R2242,30,Female,Mumbai,Working professional,1000,Boho,"Earthy tones, Red, Black",Instagram shops,Pinterest,21,4,yes
+10/08/2025 12:12:58,R2079,41,M,Bengaluru,Freelancer,1000,Vintage,"Pastels, Denim blue, Beige",Amazon,YouTube,13,5,Yes
+29/08/2025 15:58:12,R2714,36,non-binary,Patna,Working professional,1000,"Streetwear, Boho, Minimalist","Beige, Black, Denim blue",Myntra,Street style,5,1,Y
+22/09/2025 12:37:13,R2612,36,prefer not to say,Kolkata,Freelancer,2000,Minimalist,"Earthy tones, White",Brand store,Magazines,14,3,N
+06/08/2025 9:24:56,R2043,41,female,Patna,Student,15000,"Minimalist, Boho","Beige, Denim blue, Earthy tones",Brand store,Friends,15,,N
+22/08/2025 13:43:47,R2020,18,Non-binary,Hyderabad,Student,₹15000,"Boho, Ethnic","Red, Black",Instagram shops,Pinterest,14,3,No
+24/08/2025 12:38:30,R2205,29,Male,Lucknow,Entrepreneur,2000,Athleisure,"White, Red, Pastels",Amazon,Celebrities,1,2,Yes
+07/08/2025 12:51:19,R2659,25,Female,Bengaluru,Student,15000,"Streetwear, Boho, Y2K","Beige, Pastels",Ajio,Celebrities,5,,Maybe
+01/09/2025 17:24:35,R2206,25,Female,Kolkata,Entrepreneur,5000,"Formal, Y2K, Vintage",Earthy tones,Myntra,Street style,8,3,N
+16/09/2025 18:54:51,R2594,17,Female, Delhi ,Working professional,1000,"Athleisure, Vintage, Streetwear",Denim blue,Amazon,Friends,2,2,No
+10/08/2025 8:29:57,R2091,35,Male,Kolkata,Entrepreneur,5000,"Ethnic, Streetwear",Beige,Local market,Magazines,9,5,Yes
+28/09/2025 13:13:15,R2292,-3,M,Delhi,Student,10000,"Boho, Streetwear",Black,Amazon,Street style,14,2,N
+21/09/2025 8:29:29,R2150,,Non-binary,Delhi,Freelancer,8000,Ethnic,"Neon, Earthy tones, Denim blue",Local market,Friends,8,4,yes
+24/08/2025 18:25:38,R2741,38,Female,PATNA,Entrepreneur,15000,"Y2K, Vintage, Minimalist",Denim blue,Myntra,Celebrities,3,1,Yes
+18/09/2025 14:45:34,R2082,20,Female,patna,Entrepreneur,3000,"Athleisure, Minimalist","Beige, White, Red",Ajio,Celebrities,20,4,Yes
+22/08/2025 15:45:52,R2087,39,Non-binary,Delhi,Entrepreneur,8000,"Athleisure, Formal","Earthy tones, Beige",Ajio,Friends,4,,N
+19/08/2025 9:25:49,R2141,22,Prefer not to say,patna,Student,15000,"Athleisure, Minimalist","Black, Denim blue, Beige",Amazon,Celebrities,7,2,Maybe
+14/08/2025 16:57:11,R2256,40,Female,Hyderabad,Working professional,1000,"Boho, Streetwear, Y2K","Earthy tones, Red, Denim blue",Amazon,Celebrities,22,3,Maybe
+26/08/2025 11:12:55,R2619,27,Male,delhi,Homemaker,10000,"Formal, Vintage, Ethnic","Black, Neon",Brand store,Instagram,16,5,N
+25/09/2025 15:12:38,R2339,27,Prefer not to say,Kolkata,Homemaker,₹10000,"Minimalist, Y2K, Ethnic",White,Brand store,Street style,3,1,yes
+11/08/2025 9:14:20,R2857,41,Prefer not to say,Mumbai,Working professional,1k,"Boho, Minimalist","Red, Pastels, White",Instagram shops,Celebrities,,2,No
+10/08/2025 13:40:22,R2877,44,Female,Hyderabad,Homemaker,1000,"Vintage, Ethnic, Boho","Black, Denim blue, White",Myntra,Pinterest,18,2,Maybe
+19/09/2025 16:15:24,R2811,27,Female,Bengaluru,Entrepreneur,2000,Ethnic,Beige,Instagram shops,Street style,7,,Yes
+27/08/2025 14:51:43,R2039,42,Female,kolkata,Homemaker,15k,"Boho, Vintage","Neon, Pastels",Local market,Friends,24,5,Maybe
+10/09/2025 15:24:32,R2710,40,Male,Patna,Student,3000,Boho,White,Ajio,Friends,22,3,Maybe
+27/08/2025 20:22:21,R2843,21,Prefer not to say,Delhi,Student,3000,"Y2K, Ethnic, Minimalist","Pastels, Denim blue, Black",Instagram shops,Street style,,5,Y
+10/09/2025 22:33:28,R2084,22,prefer not to say,Kolkata,Student,1k,"Y2K, Boho","Red, Beige",Ajio,Instagram,,1,yes
+01/09/2025 17:19:30,R2230,23,Prefer not to say,kolkata,Student,5000,"Formal, Vintage",Red,Amazon,Celebrities,1,2,yes
+19/09/2025 21:12:49,R2546,32,Male,kolkata,Freelancer,₹3000,"Ethnic, Minimalist",Beige,Local market,Friends,18,1,Y
+14/09/2025 17:56:46,R2671,32,Male,Lucknow,Homemaker,15000,"Boho, Formal","Beige, Red, Neon",Meesho,Magazines,1,5,N
+28/09/2025 21:30:54,R2475,26,Female,Patna,Student,5000,Formal,Black,Ajio,Celebrities,11,1,Maybe
+18/09/2025 11:31:21,R2682,37,non-binary,Pune,Working professional,5000,Boho,"White, Black",Instagram shops,Street style,,4,Maybe
+06/08/2025 8:20:54,R2314,24,Male,Delhi,Homemaker,8000,"Boho, Athleisure, Streetwear","Black, Denim blue, Beige",Brand store,Friends,13,1,No
+03/08/2025 22:23:12,R2392,42,prefer not to say,Lucknow,Freelancer,8000,"Minimalist, Streetwear, Athleisure",Pastels,Instagram shops,Celebrities,11,3,yes
+13/08/2025 9:17:56,R2858,40,Prefer not to say,Bengaluru,Working professional,10000,Y2K,Earthy tones,Local market,Magazines,18,1,Maybe
+04/09/2025 14:31:51,R2451,22,male,Bengaluru,Homemaker,1000-2000,Minimalist,Beige,Brand store,Street style,22,5,Yes
+25/09/2025 21:38:39,R2555,,Non-binary,DELHI,Student,10000,"Y2K, Boho, Athleisure","Beige, Black, Pastels",Amazon,Instagram,16,1,N
+20/09/2025 20:45:41,R2483,21,Prefer not to say,PUNE,Freelancer,10000,Vintage,"Denim blue, Black, Neon",Myntra,Friends,4,4,yes
+07/08/2025 13:50:29,R2172,,Prefer not to say,Pune,Freelancer,2000,Boho,Neon,Amazon,Celebrities,18,3,N
+07/09/2025 10:49:15,R2197,43,Prefer not to say,Hyderabad,Student,1000,"Formal, Y2K",Earthy tones,Instagram shops,Street style,7,4,N
+04/08/2025 15:33:52,R2801,25,Prefer not to say,Kolkata,Homemaker,3000,"Boho, Minimalist","Neon, Red, Beige",Brand store,YouTube,15,,No
+08/09/2025 9:50:19,R2757,22,Non-binary,Delhi,Entrepreneur,3000,Boho,"White, Neon, Beige",Local market,Pinterest,17,1,Y
+29/08/2025 11:57:23,R2449,17,Female,PATNA,Student,,"Ethnic, Formal, Boho","Neon, Beige",Myntra,Instagram,20,2,Yes
+27/09/2025 18:18:18,R2361,29,Prefer not to say,Pune,Freelancer,8000,"Minimalist, Vintage, Streetwear",Earthy tones,Ajio,Instagram,3,3,Y
+15/08/2025 11:39:38,R2201,,Prefer not to say,Hyderabad,Working professional,₹10000,"Ethnic, Y2K","Earthy tones, White, Neon",Meesho,Instagram,10,2,Y
+02/09/2025 17:56:42,R2140,17,Non-binary,Patna,Freelancer,₹2000,Vintage,"Red, Beige",Instagram shops,Friends,17,5,Yes
+14/09/2025 22:34:18,R2792,28,Non-binary,Lucknow,Entrepreneur,₹2000,Vintage,Denim blue,Local market,Pinterest,13,3,Y
+30/08/2025 21:49:10,R2312,25,Prefer not to say,Mumbai,Freelancer,5000,"Streetwear, Boho","Earthy tones, Black",Myntra,Instagram,,,Maybe
+02/08/2025 20:12:45,R2048,26,Male,Bengaluru,Entrepreneur,15000,Minimalist,"Pastels, Earthy tones",Myntra,Friends,21,1,No
+17/09/2025 15:52:48,R2368,19,Female,Bengaluru,Working professional,8000,Ethnic,"Beige, Black, Earthy tones",Myntra,Celebrities,1,3,yes
+10/09/2025 17:47:37,R2806,5,Female,Delhi,Working professional,2000,"Streetwear, Athleisure","Denim blue, Red",Brand store,Magazines,9,2,N
+03/09/2025 18:45:57,R2096,N/A,Female,Lucknow,Homemaker,,"Ethnic, Athleisure","Beige, Black, Neon",Myntra,Friends,14,3,Yes
+24/08/2025 11:24:34,R2658,32,Male,hyderabad,Working professional,3000,"Y2K, Ethnic","Pastels, Earthy tones, Neon",Myntra,Pinterest,16,2,Maybe
+12/09/2025 12:31:22,R2241,19,Non-binary,Hyderabad,Student,5000,Streetwear,Pastels,Brand store,Friends,3,1,Y
+05/09/2025 21:47:35,R2028,150,Female,Delhi,Student,₹1000,"Athleisure, Y2K, Boho","White, Denim blue, Beige",Meesho,Friends,24,1,Yes
+17/08/2025 13:25:53,R2232,39,Prefer not to say,hyderabad,Homemaker,₹1000,Minimalist,"Red, White, Earthy tones",Ajio,Magazines,9,4,Y
+24/08/2025 19:12:51,R2442,36,Prefer not to say,Hyderabad,Homemaker,1000,"Vintage, Y2K","Neon, Pastels",Instagram shops,Street style,24,2,No
+15/08/2025 12:17:20,R2826,32,Non-binary,Lucknow,Freelancer,1000-2000,Vintage,Beige,Amazon,Pinterest,13,,Y
+04/09/2025 20:49:33,R2060,38,Prefer not to say,Lucknow,Homemaker,3000,Y2K,"Black, Red, Pastels",Ajio,Magazines,18,2,No
+17/08/2025 14:33:28,R2012,18,Male,Lucknow,Freelancer,1000,"Ethnic, Vintage",Earthy tones,Myntra,Instagram,21,5,N
+17/09/2025 18:52:43,R2773,37,Prefer not to say,Bengaluru,Freelancer,5000,Ethnic,Red,Myntra,Street style,15,1,Yes
+13/08/2025 20:40:23,R2465,23,Female, Mumbai ,Working professional,1000,"Vintage, Ethnic",Neon,Amazon,Friends,3,4,N
+18/09/2025 20:53:12,R2021,21,Male,Pune,Student,1000,Formal,Denim blue,Amazon,Magazines,13,5,No
+16/09/2025 18:29:28,R2642,30,Prefer not to say,Delhi,Working professional,8000,Vintage,"Earthy tones, Denim blue, Pastels",Meesho,YouTube,7,5,Y
+20/09/2025 11:15:48,R2173,26,Female,Lucknow,Student,15000-16000,"Ethnic, Boho","Earthy tones, Denim blue, Red",Amazon,Magazines,14,,Yes
+08/08/2025 21:30:55,R2038,37,Male,Kolkata,Freelancer,₹3000,"Formal, Athleisure",White,Meesho,YouTube,4,2,No
+19/08/2025 15:15:32,R2704,44,Male,Bengaluru,Entrepreneur,3000,"Athleisure, Formal, Y2K","Red, Beige",Amazon,Pinterest,23,5,Maybe
+23/09/2025 12:37:27,R2469,28,Non-binary,Lucknow,Homemaker,15000,"Formal, Boho, Y2K","Neon, Red, White",Brand store,YouTube,16,1,No
+28/09/2025 9:36:10,R2272,34,Female,Delhi,Freelancer,8000,"Ethnic, Formal",Denim blue,Ajio,Celebrities,19,5,Yes
+22/08/2025 15:47:53,R2349,17,Female,Hyderabad,Homemaker,15000-16000,Vintage,"Pastels, Beige",Amazon,Street style,3,1,Maybe
+19/09/2025 20:12:10,R2683,28,non-binary,Pune,Homemaker,₹15000,"Streetwear, Vintage","Denim blue, Black",Meesho,Celebrities,23,3,Yes
+21/09/2025 15:12:54,R2069,39,Male,Kolkata,Homemaker,3k,"Athleisure, Streetwear","Earthy tones, Red, Neon",Meesho,Street style,1,1,No
+09/09/2025 18:13:37,R2707,40,prefer not to say,MUMBAI,Working professional,10000,Minimalist,"Red, Denim blue, Black",Meesho,YouTube,4,,N
+15/08/2025 11:46:20,R2245,40,Prefer not to say, Hyderabad ,Entrepreneur,8000,"Formal, Streetwear, Ethnic","Black, Pastels",Myntra,Pinterest,7,2,No
+03/09/2025 14:39:25,R2744,44,F,bengaluru,Student,2000,"Vintage, Formal","Pastels, Beige, Denim blue",Local market,Friends,11,1,N
+09/08/2025 20:19:43,R2329,25,Prefer not to say,Kolkata,Working professional,15000,Streetwear,Red,Amazon,Instagram,,4,Yes
+28/08/2025 20:43:37,R2798,39,Prefer not to say,kolkata,Working professional,5000,"Ethnic, Streetwear",Neon,Local market,Friends,16,5,Yes
+27/09/2025 19:10:57,R2386,39,Male, Mumbai ,Homemaker,8000,Vintage,"Neon, Denim blue, Earthy tones",Instagram shops,Friends,22,2,yes
+30/08/2025 10:13:30,R2896,27,Female,Lucknow,Working professional,8000,"Vintage, Formal, Streetwear","Pastels, Neon, White",Amazon,Street style,3,3,No
+21/08/2025 11:49:15,R2302,42,Female,Mumbai,Freelancer,5000,"Ethnic, Vintage","Beige, Denim blue",Ajio,Pinterest,21,,yes
+29/08/2025 13:56:33,R2771,18,Prefer not to say,Bengaluru,Homemaker,15000,Athleisure,"Earthy tones, White",Myntra,YouTube,22,,N
+27/08/2025 12:40:10,R2728,41,Non-binary,Kolkata,Student,,"Y2K, Streetwear, Minimalist",White,Brand store,Celebrities,12,3,No
+01/08/2025 17:42:45,R2130,31,F,PUNE,Student,2000,Minimalist,"White, Red, Neon",Local market,YouTube,17,3,Yes
+29/08/2025 9:46:10,R2583,21,Male,Pune,Student,8000,Boho,"Pastels, White, Earthy tones",Brand store,Celebrities,11,3,Y
+19/08/2025 12:15:26,R2506,5,Female,Mumbai,Freelancer,2000,"Formal, Minimalist, Streetwear",White,Ajio,Friends,,2,yes
+25/08/2025 18:29:34,R2346,17,Prefer not to say,Mumbai,Freelancer,5000,"Ethnic, Vintage, Minimalist","Black, Pastels, Denim blue",Local market,Friends,,5,No
+24/08/2025 12:48:36,R2186,,prefer not to say,LUCKNOW,Entrepreneur,₹3000,"Boho, Athleisure",White,Local market,Friends,6,4,No
+24/08/2025 11:39:27,R2355,25,Male,Pune,Homemaker,1000,Boho,"Earthy tones, Black, Beige",Instagram shops,Instagram,14,4,Y
+07/08/2025 22:25:44,R2703,32,Male,Hyderabad,Homemaker,₹5000,"Ethnic, Formal","Black, Denim blue",Myntra,Street style,,3,No
+20/08/2025 21:34:25,R2438,44,Female,Bengaluru,Student,2000,"Boho, Formal",Beige,Brand store,Magazines,21,4,N
+31/08/2025 10:47:36,R2673,25,Non-binary, Bengaluru ,Working professional,8000,Formal,"Red, Black, Pastels",Amazon,Pinterest,5,5,Yes
+06/09/2025 21:14:51,R2622,37,Prefer not to say,KOLKATA,Working professional,10000,"Athleisure, Minimalist","Black, Neon, Pastels",Ajio,Friends,7,2,Y
+11/09/2025 15:41:52,R2137,31,Non-binary,Mumbai,Freelancer,2000,Athleisure,"Denim blue, Pastels",Local market,Celebrities,24,1,Yes
+14/09/2025 18:33:33,R2528,39,Prefer not to say, Kolkata ,Freelancer,2000,"Streetwear, Minimalist",Earthy tones,Local market,Magazines,7,,Maybe
+02/09/2025 9:24:23,R2323,21,Female,Kolkata,Freelancer,5000,"Y2K, Formal","Denim blue, Earthy tones",Meesho,Magazines,18,1,No
+29/09/2025 21:15:34,R2821,26,Female,MUMBAI,Student,8k,"Athleisure, Vintage, Ethnic","Pastels, Neon",Amazon,Magazines,6,3,Y
+17/08/2025 9:53:14,R2603,22 yrs,non-binary,BENGALURU,Entrepreneur,8000,Boho,Black,Meesho,Magazines,18,2,N
+15/09/2025 16:53:46,R2453,28,Prefer not to say,hyderabad,Freelancer,1000-2000,"Y2K, Vintage, Ethnic","Neon, Pastels, Black",Meesho,YouTube,16,4,Y
+03/09/2025 10:57:43,R2809,-3,Female,kolkata,Homemaker,1000,"Y2K, Formal, Ethnic","Black, Denim blue, Pastels",Brand store,Celebrities,19,4,Yes
+01/09/2025 9:12:55,R2415,26,Female,mumbai,Working professional,3000-4000,Minimalist,"White, Pastels",Local market,Magazines,12,2,No
+21/09/2025 10:14:47,R2780,18,male,Bengaluru,Student,1000,"Formal, Y2K",Neon,Local market,Friends,11,3,Y
+25/08/2025 18:17:20,R2613,43,Non-binary,MUMBAI,Working professional,2000,"Athleisure, Boho","White, Pastels, Beige",Ajio,YouTube,17,5,Maybe
+23/09/2025 13:17:31,R2204,34,Non-binary,Delhi,Homemaker,3000,"Vintage, Formal","Beige, White, Black",Amazon,Magazines,24,,No
+13/08/2025 19:44:33,R2529,24,Female,Mumbai,Student,₹3000,"Formal, Athleisure, Y2K","Black, Earthy tones",Amazon,Pinterest,9,1,N
+22/08/2025 11:20:31,R2726,38,Male,Lucknow,Student,₹10000,"Y2K, Boho, Vintage",Beige,Ajio,Friends,8,2,Yes
+21/08/2025 13:39:13,R2327,30,Non-binary,Delhi,Freelancer,8000,Ethnic,"Black, Denim blue, Beige",Local market,Magazines,,2,No
+01/09/2025 18:38:40,R2532,22,Prefer not to say,Patna,Student,8000,Boho,"Black, Earthy tones, Red",Local market,Instagram,9,2,Y
+03/09/2025 11:45:54,R2367,41,Non-binary,Kolkata,Freelancer,1000,"Minimalist, Athleisure, Formal","Pastels, Neon, White",Instagram shops,Instagram,,2,Y
+14/08/2025 17:28:28,R2400,23,Male,Patna,Working professional,10000,"Athleisure, Vintage, Streetwear","Black, Earthy tones, Neon",Meesho,Pinterest,14,3,N
+07/09/2025 15:37:54,R2518,28,Female,Delhi,Homemaker,10000,"Vintage, Boho","Red, Denim blue",Amazon,Friends,9,4,No
+15/09/2025 13:47:28,R2041,23,Prefer not to say,hyderabad,Entrepreneur,2000,"Formal, Boho","White, Neon, Denim blue",Brand store,Magazines,,5,N
+14/09/2025 14:12:28,R2351,30,Female,Kolkata,Working professional,8000,Minimalist,"White, Red, Neon",Ajio,Instagram,19,,No
+24/08/2025 8:24:23,R2051,29,Female,Mumbai,Student,3000,"Minimalist, Ethnic, Vintage","Denim blue, Pastels",Local market,Celebrities,13,3,yes
+11/08/2025 13:58:14,R2199,44,F,Delhi,Working professional,3000,Y2K,"Denim blue, White, Pastels",Myntra,Friends,21,4,Y
+14/09/2025 19:17:28,R2753,25,Non-binary,Kolkata,Freelancer,10000,"Minimalist, Athleisure, Y2K","Pastels, Earthy tones",Local market,Magazines,11,2,yes
+03/08/2025 16:14:54,R2791,41,Prefer not to say,Kolkata,Freelancer,3000,"Minimalist, Athleisure",Black,Meesho,Magazines,21,5,No
+03/08/2025 8:31:55,R2581,19,Prefer not to say,DELHI,Entrepreneur,,"Athleisure, Boho, Y2K","Black, Red",Meesho,Street style,17,2,Maybe
+07/09/2025 21:44:33,R2223,19,Female,Kolkata,Homemaker,15000,Boho,Neon,Brand store,Pinterest,,2,Maybe
+28/08/2025 19:21:39,R2480,41,Male,BENGALURU,Student,1000,"Vintage, Athleisure","Neon, Black, Denim blue",Amazon,Street style,23,2,Yes
+08/08/2025 19:56:37,R2859,N/A,Prefer not to say,Kolkata,Working professional,₹1000,"Vintage, Minimalist, Formal",Denim blue,Myntra,Pinterest,21,3,Yes
+15/08/2025 13:42:18,R2514,43,Prefer not to say,kolkata,Student,1000-2000,Athleisure,"Black, Earthy tones, Beige",Meesho,Celebrities,12,1,Maybe
+05/09/2025 19:52:42,R2738,38,Female,kolkata,Student,,Ethnic,Red,Instagram shops,Magazines,23,4,No
+05/08/2025 13:42:49,R2369,40,Male,Bengaluru,Working professional,1000,Streetwear,Neon,Amazon,Instagram,,1,No
+21/09/2025 10:54:45,R2675,21,Female,Pune,Working professional,5000,"Formal, Y2K","Black, Neon",Brand store,Street style,,,No
+21/08/2025 9:53:22,R2182,22 yrs,Male,Pune,Student,15000,Boho,"Black, Pastels",Brand store,Celebrities,1,,Yes
+07/09/2025 9:17:55,R2542,28,Female,Hyderabad,Student,8000,"Athleisure, Y2K, Boho","Red, Earthy tones, White",Ajio,Friends,,5,Maybe
+06/09/2025 17:30:48,R2185,19,M,Kolkata,Working professional,8000,Formal,Black,Ajio,Street style,16,1,yes
+07/08/2025 12:57:57,R2531,19,Female,Hyderabad,Student,15000,Athleisure,"Black, Earthy tones",Amazon,Friends,12,5,No
+28/09/2025 19:12:50,R2132,39,Female,Bengaluru,Student,₹1000,Ethnic,"Denim blue, Beige, Black",Myntra,Instagram,18,5,Yes
+20/09/2025 20:35:33,R2549,19,Female, Hyderabad ,Freelancer,8000,Ethnic,Beige,Instagram shops,Instagram,2,5,Yes
+30/08/2025 21:23:42,R2234,36,Female,DELHI,Homemaker,8000,"Vintage, Boho","Black, Red",Instagram shops,Celebrities,4,5,yes
+11/09/2025 18:18:44,R2485,35,Non-binary,Patna,Working professional,,"Streetwear, Vintage","Red, Neon, Black",Myntra,YouTube,7,2,N
+20/08/2025 20:54:38,R2739,24,Non-binary, Kolkata ,Freelancer,₹3000,Vintage,"Beige, Black, Neon",Brand store,Friends,24,1,Yes
+13/08/2025 14:48:27,R2019,33,non-binary,Bengaluru,Entrepreneur,10000,"Y2K, Ethnic, Minimalist",Denim blue,Brand store,Pinterest,13,2,Y
+18/09/2025 17:38:19,R2407,34,male,Delhi,Freelancer,15k,"Minimalist, Athleisure",Pastels,Meesho,Celebrities,6,3,Maybe
+05/08/2025 13:55:56,R2899,44,Prefer not to say,lucknow,Entrepreneur,10000,Vintage,Red,Amazon,Magazines,3,4,Yes
+10/09/2025 8:25:24,R2560,20,Prefer not to say, Pune ,Student,15000,"Streetwear, Athleisure, Formal",Pastels,Ajio,Celebrities,14,2,Y
+03/08/2025 16:36:44,R2777,42,Non-binary,HYDERABAD,Homemaker,1000,"Ethnic, Y2K",White,Instagram shops,Friends,18,4,Yes
+17/08/2025 9:11:45,R2607,38,Prefer not to say,Hyderabad,Student,15000,"Boho, Minimalist","Neon, Pastels",Instagram shops,Celebrities,10,5,yes
+09/08/2025 12:41:19,R2403,25,Male,Delhi,Entrepreneur,10000,"Boho, Y2K, Athleisure","Beige, White, Neon",Brand store,YouTube,11,2,yes
+26/08/2025 21:55:12,R2856,20,Male,Mumbai,Working professional,5k,Boho,Earthy tones,Local market,Celebrities,14,2,Y
+16/08/2025 10:50:27,R2450,18,Female,Patna,Freelancer,,"Streetwear, Boho",Denim blue,Instagram shops,Friends,2,1,Y
+05/09/2025 8:57:11,R2535,20,Male,Kolkata,Freelancer,3000,Vintage,"Red, Neon",Amazon,Friends,,4,No
+24/08/2025 16:24:20,R2116,41,Prefer not to say,Lucknow,Student,3000-4000,"Formal, Boho, Ethnic","Pastels, Black, Beige",Meesho,YouTube,5,1,N
+17/09/2025 20:12:45,R2148,42,Female,LUCKNOW,Working professional,5000,Ethnic,"Denim blue, Neon",Meesho,Pinterest,11,1,Maybe
+16/08/2025 15:43:33,R2556,40,Female,HYDERABAD,Homemaker,8000,"Minimalist, Y2K, Formal",Pastels,Meesho,Pinterest,,1,Yes
+25/08/2025 8:13:40,R2831,36,Male,Delhi,Working professional,15000,"Ethnic, Minimalist","Neon, Earthy tones",Local market,Pinterest,17,3,N
+27/09/2025 20:51:37,R2246,38,Male,Bengaluru,Freelancer,₹8000,"Formal, Ethnic, Y2K","Black, Denim blue",Meesho,YouTube,22,2,Y
+02/08/2025 10:50:25,R2217,25,Female,Lucknow,Entrepreneur,10000,"Athleisure, Ethnic","Beige, Black, Denim blue",Brand store,Friends,18,,Yes
+23/08/2025 16:23:24,R2111,23,Prefer not to say,PUNE,Entrepreneur,1000,"Y2K, Streetwear","Earthy tones, Black, White",Brand store,Celebrities,9,5,No
+04/08/2025 9:33:43,R2815,41,Female,bengaluru,Student,3000,"Vintage, Ethnic, Minimalist","Pastels, Earthy tones",Meesho,Pinterest,,2,Yes
+14/08/2025 22:40:19,R2037,,Male,Hyderabad,Student,5k,Vintage,"Pastels, Neon, Red",Instagram shops,Street style,8,5,yes
+18/08/2025 21:40:23,R2366,20,Non-binary,delhi,Freelancer,15000,"Vintage, Athleisure","Black, Beige",Local market,Magazines,24,3,Maybe
+26/08/2025 10:34:27,R2118,25,Prefer not to say,Bengaluru,Freelancer,2000,"Streetwear, Y2K, Vintage",Beige,Local market,Friends,12,1,yes
+24/08/2025 22:51:22,R2233,21,Female,Bengaluru,Student,10k,Ethnic,"Red, Denim blue, Beige",Instagram shops,YouTube,20,4,N
+21/09/2025 17:47:35,R2737,twenty two,Female,LUCKNOW,Entrepreneur,3000,"Boho, Streetwear, Ethnic","Black, Neon, Beige",Meesho,Street style,20,1,No
+13/08/2025 8:35:35,R2023,17,Prefer not to say,KOLKATA,Student,15000,"Formal, Streetwear","Earthy tones, Neon",Ajio,YouTube,16,2,Maybe
+14/08/2025 20:19:14,R2258,21,Prefer not to say,Bengaluru,Homemaker,8000,"Athleisure, Vintage",Denim blue,Ajio,YouTube,7,4,Maybe
+17/08/2025 12:44:39,R2309,20,Non-binary,Hyderabad,Homemaker,8000,"Vintage, Ethnic, Streetwear","Red, Black, Denim blue",Ajio,Instagram,16,2,Y
+07/09/2025 15:54:50,R2602,43,male,Pune,Student,8k,"Minimalist, Streetwear, Vintage","Black, Earthy tones",Instagram shops,YouTube,23,3,Y
+01/09/2025 16:22:38,R2540,35,M,Lucknow,Working professional,15k,"Minimalist, Formal, Boho",Beige,Meesho,Instagram,22,4,No
+25/08/2025 8:11:15,R2377,38,Non-binary,HYDERABAD,Freelancer,1000,"Boho, Streetwear","White, Pastels, Denim blue",Brand store,Street style,22,2,Maybe
+31/08/2025 13:40:52,R2418,N/A,non-binary,BENGALURU,Homemaker,,"Streetwear, Athleisure, Vintage","Black, Red",Brand store,YouTube,2,2,Yes
+29/09/2025 21:18:47,R2547,,Non-binary,Pune,Student,,"Minimalist, Vintage",Denim blue,Meesho,YouTube,14,1,Yes
+27/09/2025 17:23:21,R2878,36,prefer not to say,Bengaluru,Working professional,15000,"Athleisure, Y2K","White, Earthy tones",Ajio,Street style,15,,Yes
+31/08/2025 20:46:41,R2207,36,Non-binary,Delhi,Homemaker,1000,Boho,"Earthy tones, Black",Ajio,Instagram,5,,No
+16/08/2025 20:37:10,R2143,37,Prefer not to say,MUMBAI,Working professional,2000,"Boho, Formal, Athleisure","White, Earthy tones",Instagram shops,YouTube,12,5,Y
+10/08/2025 11:22:28,R2690,34,Non-binary,Lucknow,Working professional,₹3000,Athleisure,"Black, Red, White",Brand store,Friends,3,4,No
+23/09/2025 11:29:20,R2081,40,Female,Patna,Freelancer,8000,"Streetwear, Athleisure, Minimalist",Earthy tones,Meesho,YouTube,22,2,No
+23/08/2025 10:14:20,R2569,26,M, Delhi ,Working professional,3000,"Minimalist, Boho, Streetwear","Black, Red, Beige",Meesho,Pinterest,16,4,No
+07/09/2025 10:29:23,R2852,23,Male,KOLKATA,Homemaker,1000,Vintage,"Beige, Black",Brand store,Magazines,13,1,Yes
+17/08/2025 16:19:41,R2121,43,Male,Delhi,Freelancer,3000,"Minimalist, Formal, Boho","White, Beige",Local market,Celebrities,5,2,Yes
+21/09/2025 9:34:24,R2454,41,Male,bengaluru,Homemaker,1000,"Y2K, Formal","Denim blue, Red",Brand store,Street style,23,1,Yes
+03/09/2025 17:23:14,R2494,29,Female,Hyderabad,Homemaker,5000,"Y2K, Formal","Red, Beige",Ajio,Friends,5,1,yes
+18/08/2025 19:10:58,R2026,36,Male,bengaluru,Homemaker,3000,Streetwear,Neon,Amazon,Street style,,1,No
+03/08/2025 16:31:42,R2500,34,Non-binary,Lucknow,Student,₹1000,Streetwear,Pastels,Myntra,Magazines,7,4,No
+24/08/2025 9:29:37,R2396,43,Female,BENGALURU,Freelancer,2000,Ethnic,Black,Ajio,Street style,11,3,No
+28/08/2025 20:43:37,R2798,39,Prefer not to say,kolkata,Working professional,5000,"Ethnic, Streetwear",Neon,Local market,Friends,16,5,Yes
+27/08/2025 22:23:16,R2516,21,Female,Lucknow,Homemaker,2000,"Streetwear, Formal, Ethnic","Beige, Black, Denim blue",Myntra,Friends,20,,Yes
+13/09/2025 8:23:20,R2589,-3,Female,Bengaluru,Entrepreneur,₹8000,"Formal, Ethnic","Pastels, White",Myntra,Pinterest,9,4,Y
+27/08/2025 9:40:37,R2874,38,Non-binary,Pune,Homemaker,2000,"Minimalist, Athleisure, Vintage","Beige, Neon, Red",Brand store,Street style,14,3,Yes
+04/08/2025 12:29:29,R2853,37,Non-binary,Kolkata,Homemaker,8000,Boho,"Denim blue, Black, Pastels",Meesho,Celebrities,3,2,Y
+02/08/2025 8:31:43,R2647,29,Female,Hyderabad,Working professional,1000,Minimalist,"Earthy tones, Neon",Amazon,Friends,6,1,No
+17/09/2025 15:19:36,R2318,21,Male,delhi,Entrepreneur,₹5000,"Formal, Ethnic",Neon,Ajio,Street style,24,3,Yes
+11/08/2025 13:47:46,R2435,41,Non-binary,Hyderabad,Student,1k,"Vintage, Formal, Athleisure",Pastels,Local market,Street style,2,2,Yes
+20/08/2025 13:34:33,R2218,25,Male, Lucknow ,Homemaker,3000,"Formal, Boho, Ethnic",White,Local market,Street style,16,4,Yes
+18/09/2025 12:12:35,R2335,,Male,BENGALURU,Working professional,8k,"Formal, Streetwear","Neon, White, Black",Ajio,Friends,5,3,No
+26/08/2025 11:26:10,R2803,34,Female,Kolkata,Entrepreneur,2000,Athleisure,Denim blue,Amazon,Magazines,21,4,No
+13/09/2025 10:26:47,R2296,26,Male,Mumbai,Homemaker,,"Formal, Streetwear",Beige,Myntra,YouTube,10,3,No
+22/08/2025 9:37:19,R2667,18,Female,Pune,Working professional,10000,"Boho, Ethnic, Formal","White, Red",Instagram shops,Magazines,13,1,Yes
+07/08/2025 11:52:33,R2793,29,Prefer not to say,Patna,Freelancer,1000,Ethnic,White,Meesho,Celebrities,7,,yes
+26/09/2025 13:54:35,R2870,34,Female,Bengaluru,Freelancer,,Minimalist,Pastels,Ajio,Pinterest,3,4,Yes
+19/08/2025 13:30:22,R2284,150,Non-binary, Bengaluru ,Homemaker,5k,Boho,"Earthy tones, Red",Meesho,Friends,18,3,yes
+27/08/2025 16:26:30,R2022,N/A,Prefer not to say,Hyderabad,Freelancer,3000,"Athleisure, Formal",Neon,Meesho,Friends,,5,N
+03/08/2025 22:43:10,R2227,21,Female,LUCKNOW,Entrepreneur,5000,"Formal, Streetwear","Neon, Black",Meesho,YouTube,21,4,Y
+23/08/2025 10:15:10,R2720,19,Male,KOLKATA,Working professional,15000,"Boho, Minimalist",Denim blue,Myntra,Friends,21,,Y
+24/08/2025 14:54:21,R2002,18,Female,Bengaluru,Working professional,₹15000,"Vintage, Minimalist, Streetwear","Red, Neon",Meesho,Friends,21,5,N
+02/09/2025 20:15:48,R2445,35,Female,Mumbai,Student,1000,Vintage,"Denim blue, Red, Black",Myntra,Friends,8,5,Yes
+23/08/2025 9:34:34,R2548,34,Prefer not to say,Lucknow,Working professional,₹1000,Minimalist,"Neon, Earthy tones, Red",Brand store,Street style,23,,N
+26/08/2025 15:18:49,R2029,37,Female,Kolkata,Entrepreneur,3k,"Minimalist, Ethnic","Pastels, Black, Denim blue",Amazon,Friends,7,1,yes
+19/09/2025 20:45:33,R2498,24,Female,Delhi,Student,10000,"Ethnic, Minimalist",Earthy tones,Brand store,Magazines,17,5,N
+11/08/2025 13:20:44,R2457,43,prefer not to say,BENGALURU,Student,₹2000,Athleisure,Beige,Brand store,Pinterest,23,2,No
+14/09/2025 17:33:34,R2005,23,Prefer not to say,Mumbai,Entrepreneur,15000,"Streetwear, Athleisure, Y2K",White,Ajio,Street style,5,2,No
+16/09/2025 20:51:35,R2819,22,Female,Kolkata,Entrepreneur,5k,Ethnic,Beige,Meesho,Pinterest,12,2,N
+03/09/2025 16:56:56,R2281,38,Male,Patna,Freelancer,5000-6000,Y2K,"Denim blue, Beige, Neon",Ajio,YouTube,23,4,Yes
+24/09/2025 18:47:42,R2032,22,Prefer not to say,Mumbai,Homemaker,2000,"Vintage, Formal","Red, Black",Brand store,Friends,15,2,N
+14/09/2025 20:39:44,R2421,23,F,Delhi,Entrepreneur,1000,"Streetwear, Athleisure, Boho","Earthy tones, Pastels",Meesho,Celebrities,7,,yes
+02/08/2025 11:46:26,R2787,36,prefer not to say,Patna,Student,5000,"Vintage, Minimalist","Neon, Denim blue, Black",Instagram shops,Magazines,21,1,Yes
+06/09/2025 13:21:47,R2627,twenty two,Non-binary,Mumbai,Freelancer,5000,"Streetwear, Y2K","Red, Pastels",Amazon,Instagram,24,1,Yes
+11/08/2025 19:17:20,R2156,23,Female,Lucknow,Student,₹10000,"Athleisure, Vintage, Minimalist",White,Myntra,Pinterest,23,1,Yes
+16/08/2025 8:25:51,R2409,32,Prefer not to say,Pune,Student,3000,"Ethnic, Athleisure",Denim blue,Brand store,Pinterest,19,5,yes
+11/08/2025 14:37:48,R2519,18,non-binary,Bengaluru,Homemaker,8000,"Minimalist, Athleisure, Formal",Neon,Local market,Celebrities,16,3,N
+19/09/2025 20:58:29,R2869,22,Non-binary,kolkata,Entrepreneur,2000,"Boho, Y2K, Minimalist","Beige, Denim blue, Black",Meesho,Friends,24,4,No
+20/09/2025 11:14:56,R2880,,M,Kolkata,Working professional,5000,"Minimalist, Streetwear","Beige, Red",Brand store,Instagram,19,3,Yes
+08/08/2025 11:32:20,R2586,31,M,HYDERABAD,Homemaker,8000,Minimalist,Denim blue,Brand store,Magazines,16,,yes
+30/08/2025 12:42:39,R2259,150,Male,PATNA,Freelancer,15000,"Vintage, Minimalist",White,Amazon,Celebrities,21,2,N
+17/08/2025 21:49:39,R2297,18,Female,Patna,Working professional,1000,"Minimalist, Vintage","White, Red, Neon",Amazon,Street style,17,3,yes
+25/08/2025 14:49:52,R2655,17,Prefer not to say,patna,Working professional,,"Boho, Vintage",Black,Ajio,Magazines,17,2,Y
+23/08/2025 15:30:55,R2502,32,Male, Pune ,Freelancer,2k,"Y2K, Formal, Minimalist","Denim blue, Black",Myntra,Friends,23,2,yes
+30/08/2025 8:39:25,R2470,19,Non-binary,Kolkata,Student,3000,Ethnic,"Pastels, Beige",Amazon,Friends,,5,N
+25/09/2025 15:25:43,R2553,28,Female,Bengaluru,Entrepreneur,10k,"Streetwear, Y2K, Minimalist","Neon, Pastels, White",Local market,Magazines,10,5,yes
+17/09/2025 20:11:14,R2837,5,Male,Delhi,Freelancer,3000,"Minimalist, Boho, Vintage",Beige,Myntra,Street style,6,,Yes
+24/09/2025 19:16:13,R2010,25,Male,Pune,Homemaker,1000,Athleisure,"Black, Red",Ajio,Celebrities,15,3,No
+18/08/2025 21:33:22,R2691,37,Male,Lucknow,Student,15000,"Boho, Formal","Denim blue, White, Earthy tones",Instagram shops,Street style,10,2,Yes
+07/08/2025 21:47:12,R2007,25,Prefer not to say,Delhi,Entrepreneur,10k,"Boho, Minimalist, Vintage","Earthy tones, Black",Brand store,Instagram,3,2,No
+14/09/2025 9:43:49,R2208,5,Female,Hyderabad,Homemaker,₹15000,Vintage,Neon,Meesho,Celebrities,18,3,Y
+02/09/2025 8:55:38,R2660,38,Female,Mumbai,Student,5000,"Formal, Athleisure, Y2K",Denim blue,Ajio,Friends,20,2,Y
+28/09/2025 9:28:13,R2375,27,Female,Delhi,Freelancer,5000,Athleisure,Earthy tones,Meesho,Magazines,2,4,Yes
+20/08/2025 19:44:45,R2598,29,Prefer not to say,pune,Homemaker,8000,"Formal, Boho, Athleisure","Earthy tones, Denim blue",Amazon,YouTube,5,2,No
+21/08/2025 12:51:17,R2414,29,Prefer not to say,MUMBAI,Working professional,₹10000,"Athleisure, Streetwear, Y2K","Earthy tones, Black, Red",Instagram shops,YouTube,6,2,N
+29/08/2025 20:12:21,R2291,27,Prefer not to say,PATNA,Freelancer,8000,"Athleisure, Streetwear, Y2K","Black, Earthy tones, White",Myntra,Magazines,16,2,N
+27/08/2025 22:50:21,R2356,21,Non-binary,Lucknow,Freelancer,₹8000,"Vintage, Formal, Y2K","Black, Earthy tones, Neon",Amazon,Friends,20,2,Yes
+23/08/2025 19:37:35,R2049,27,female,Mumbai,Homemaker,₹10000,Y2K,"Earthy tones, Black, Red",Ajio,Friends,3,4,Maybe
+04/09/2025 9:43:25,R2686,21,Female,Bengaluru,Student,15k,Athleisure,"Pastels, Beige",Myntra,Instagram,5,5,yes
+05/08/2025 20:24:38,R2609,23,male,Pune,Homemaker,3000,"Y2K, Athleisure",Earthy tones,Instagram shops,Friends,21,2,yes
+30/08/2025 21:36:26,R2727,20,non-binary,PUNE,Student,1000,"Formal, Streetwear, Y2K","Red, Black, Beige",Instagram shops,Pinterest,12,4,Y
+12/09/2025 18:40:23,R2448,37,Prefer not to say,Patna,Entrepreneur,₹15000,Ethnic,"Pastels, White, Red",Amazon,Pinterest,16,1,Yes
+28/09/2025 17:24:23,R2052,43,prefer not to say,Delhi,Student,8000,"Y2K, Athleisure, Vintage","Earthy tones, Beige, Denim blue",Meesho,Instagram,12,5,No
+20/09/2025 21:35:20,R2308,23,F,Mumbai,Student,₹2000,"Ethnic, Vintage, Boho",Earthy tones,Amazon,Instagram,21,2,Maybe
+05/09/2025 18:52:32,R2315,20,Prefer not to say,Patna,Student,15000,Athleisure,Earthy tones,Ajio,Magazines,2,3,Y
+31/08/2025 19:30:26,R2488,41,Non-binary,Kolkata,Homemaker,1000,Boho,"Pastels, Earthy tones",Instagram shops,YouTube,5,4,Maybe
+20/08/2025 8:32:41,R2591,27,Female,Lucknow,Working professional,10k,"Boho, Streetwear, Ethnic",Denim blue,Myntra,Magazines,18,1,N
+03/09/2025 22:19:29,R2742,23,Non-binary,Lucknow,Student,15000,Ethnic,"Black, Pastels, Neon",Local market,Celebrities,13,4,Y
+27/09/2025 14:47:30,R2391,22,Non-binary, Pune ,Entrepreneur,15k,"Y2K, Ethnic, Boho","Denim blue, White",Local market,YouTube,22,2,Yes
+13/08/2025 10:16:43,R2887,23,Female,Bengaluru,Homemaker,1000,"Vintage, Boho","Neon, Denim blue",Meesho,Celebrities,21,3,No
+07/08/2025 8:58:45,R2501,24,Male,Hyderabad,Entrepreneur,15000-16000,Vintage,"Neon, Denim blue",Ajio,Friends,12,4,Yes
+10/09/2025 9:17:46,R2119,-3,Female,HYDERABAD,Working professional,5000,Ethnic,"Beige, White",Local market,Magazines,8,2,No
+10/08/2025 13:40:22,R2877,44,Female,Hyderabad,Homemaker,1000,"Vintage, Ethnic, Boho","Black, Denim blue, White",Myntra,Pinterest,18,2,Maybe
+02/09/2025 9:14:41,R2394,,Non-binary,Kolkata,Homemaker,3000,Minimalist,"Neon, Earthy tones",Meesho,Celebrities,24,,Yes
+24/09/2025 17:26:19,R2648,39,Prefer not to say,Lucknow,Working professional,,Ethnic,"Beige, Denim blue",Myntra,Friends,5,4,N
+11/09/2025 22:19:18,R2653,39,Male,Mumbai,Entrepreneur,8000,"Boho, Streetwear, Vintage","Red, Denim blue, Beige",Ajio,Celebrities,10,4,Y
+20/09/2025 8:21:10,R2527,28,Female,Bengaluru,Freelancer,10000,"Ethnic, Minimalist",Black,Brand store,Magazines,24,,N
+09/09/2025 15:18:17,R2639,23,female,BENGALURU,Entrepreneur,3000,"Ethnic, Streetwear","Beige, Red, Pastels",Local market,Friends,21,1,Yes
+07/09/2025 14:26:24,R2086,27,Female,Hyderabad,Freelancer,2000,"Athleisure, Y2K, Boho","Black, Pastels",Myntra,YouTube,6,5,No
+03/08/2025 22:35:16,R2171,17,M,Kolkata,Homemaker,15000,"Y2K, Minimalist, Athleisure","Neon, Red",Meesho,Street style,,2,No
+07/08/2025 15:47:19,R2027,44,non-binary,KOLKATA,Working professional,15000,"Boho, Streetwear","Denim blue, Red, Earthy tones",Amazon,YouTube,23,2,No
+12/09/2025 15:55:39,R2785,31,Prefer not to say,Kolkata,Homemaker,5000,"Formal, Athleisure, Y2K","Black, White, Pastels",Myntra,Friends,9,1,Maybe
+04/09/2025 19:11:10,R2746,35,Non-binary,LUCKNOW,Working professional,5000,Athleisure,White,Myntra,Magazines,1,,Yes
+11/09/2025 12:41:20,R2510,29,Male,Kolkata,Entrepreneur,8000,Formal,"Beige, Earthy tones",Local market,Pinterest,10,,N
+25/09/2025 10:14:15,R2748,35,Female,Pune,Homemaker,8000,Athleisure,Neon,Ajio,Street style,21,5,N
+06/09/2025 21:34:38,R2662,33,Prefer not to say, Bengaluru ,Working professional,1000,"Athleisure, Boho, Streetwear",Pastels,Myntra,YouTube,17,5,No
+15/09/2025 15:20:37,R2693,twenty two,Prefer not to say,Hyderabad,Student,10000,Ethnic,"White, Black, Neon",Local market,Street style,6,2,No
+14/09/2025 10:55:54,R2491,44,female,mumbai,Homemaker,8000-9000,"Minimalist, Vintage","Beige, Black",Meesho,Magazines,16,5,No
+09/08/2025 22:12:54,R2579,42,Prefer not to say,lucknow,Freelancer,8000,"Boho, Minimalist",White,Brand store,YouTube,16,1,No
+23/08/2025 13:52:10,R2736,N/A,Prefer not to say,Bengaluru,Freelancer,3000-4000,Formal,Pastels,Amazon,Friends,11,1,No
+03/09/2025 17:44:27,R2252,20,Male,Patna,Homemaker,5000,Minimalist,"Red, White, Pastels",Brand store,Instagram,17,4,Y
+24/08/2025 12:15:57,R2552,26,Female,Delhi,Homemaker,3000,Streetwear,Earthy tones,Meesho,Celebrities,24,2,Maybe
+11/08/2025 19:41:25,R2833,,Prefer not to say,Delhi,Homemaker,5000,"Ethnic, Streetwear, Athleisure","Pastels, White, Denim blue",Amazon,Pinterest,9,5,No
+14/09/2025 10:35:36,R2772,20,Female,Kolkata,Student,2000,Ethnic,Earthy tones,Instagram shops,Magazines,5,,yes
+18/09/2025 20:13:28,R2131,27,Prefer not to say, Hyderabad ,Working professional,,"Streetwear, Formal, Y2K","Beige, Pastels",Meesho,Celebrities,15,5,yes
+04/09/2025 14:42:31,R2699,22 yrs,Non-binary,Kolkata,Entrepreneur,₹5000,"Vintage, Minimalist","Earthy tones, Neon",Myntra,Street style,24,5,Yes
+10/09/2025 10:51:50,R2626,44,Male,pune,Entrepreneur,3000,"Ethnic, Y2K, Boho","Black, Earthy tones, Beige",Brand store,Friends,13,3,Yes
+04/09/2025 18:34:33,R2708,30,M,Hyderabad,Homemaker,₹1000,"Athleisure, Boho, Ethnic","Black, Earthy tones",Myntra,Magazines,6,2,No
+06/09/2025 14:32:27,R2565,20,Non-binary,Pune,Student,15000,Formal,White,Brand store,Instagram,20,1,No
+19/09/2025 22:21:11,R2125,38,Male,Mumbai,Entrepreneur,₹8000,Ethnic,Red,Ajio,Magazines,14,3,Y
+13/09/2025 18:57:20,R2009,41,female,delhi,Working professional,8000-9000,"Y2K, Ethnic, Athleisure","Neon, Beige, Red",Instagram shops,Magazines,,5,Y
+07/09/2025 21:55:23,R2078,,Female,delhi,Freelancer,2000,"Streetwear, Athleisure",Black,Myntra,Magazines,15,2,yes
+11/08/2025 19:54:27,R2808,22,male,Bengaluru,Entrepreneur,,"Minimalist, Y2K","Denim blue, Earthy tones, Pastels",Instagram shops,Friends,7,5,Yes
+06/09/2025 14:56:53,R2543,44,Male,Patna,Homemaker,8000-9000,Formal,White,Meesho,YouTube,22,5,yes
+09/09/2025 12:38:21,R2484,24,Female,Lucknow,Homemaker,₹5000,"Athleisure, Ethnic",Neon,Meesho,YouTube,2,3,Yes
+24/08/2025 17:14:56,R2844,26,Male,Pune,Freelancer,2000,"Ethnic, Y2K, Formal","Denim blue, Neon, Beige",Instagram shops,Pinterest,4,5,Y
+28/09/2025 21:11:32,R2587,24,Prefer not to say,Lucknow,Homemaker,5000,"Vintage, Minimalist, Ethnic",Denim blue,Myntra,YouTube,9,4,No
+20/09/2025 18:31:43,R2054,20,Prefer not to say,Kolkata,Homemaker,8000,"Ethnic, Boho, Streetwear","Beige, Pastels, White",Instagram shops,YouTube,3,5,Yes
+18/09/2025 8:30:39,R2388,17,Prefer not to say,Bengaluru,Freelancer,,"Y2K, Ethnic, Minimalist","Earthy tones, Denim blue",Myntra,Street style,7,4,No
+07/09/2025 10:14:56,R2670,18,Female,Mumbai,Entrepreneur,2000,"Athleisure, Vintage",Black,Local market,Friends,5,5,No
+18/09/2025 11:10:23,R2352,20,Male,Hyderabad,Student,10000,"Ethnic, Formal, Vintage","Red, Earthy tones",Amazon,Pinterest,9,1,Maybe
+29/09/2025 12:37:57,R2487,28,male,PATNA,Freelancer,₹3000,"Minimalist, Y2K, Formal",Black,Ajio,Instagram,23,1,Yes
+03/08/2025 14:20:17,R2566,33,Female,Bengaluru,Student,15000,Athleisure,"Red, Pastels",Instagram shops,Instagram,11,,Y
+06/09/2025 9:36:36,R2250,21,Female,Lucknow,Freelancer,3000,"Formal, Vintage","White, Red, Pastels",Instagram shops,Pinterest,21,5,No
+25/08/2025 20:24:11,R2443,20,Male,DELHI,Working professional,10000,"Athleisure, Boho",Black,Amazon,Pinterest,12,2,Yes
+05/09/2025 17:40:44,R2840,43,Prefer not to say,Patna,Student,2000,Athleisure,"Beige, Denim blue, White",Local market,Pinterest,24,3,Yes
+19/08/2025 11:34:20,R2165,35,Male,Delhi,Entrepreneur,2000,"Streetwear, Minimalist, Formal","Red, Denim blue",Meesho,Magazines,13,1,No
+28/08/2025 18:37:23,R2505,29,Male, Hyderabad ,Homemaker,1000,Ethnic,Earthy tones,Ajio,Friends,12,5,No
+21/09/2025 16:52:33,R2264,44,Male, Hyderabad ,Working professional,8000,Minimalist,"Black, Earthy tones",Meesho,Friends,21,,Yes
+24/08/2025 8:24:23,R2051,29,Female,Mumbai,Student,3000,"Minimalist, Ethnic, Vintage","Denim blue, Pastels",Local market,Celebrities,13,3,yes
+20/08/2025 14:13:33,R2107,25,Male,HYDERABAD,Freelancer,15000,"Formal, Boho","Beige, Black, Denim blue",Ajio,Celebrities,7,3,Yes
+16/08/2025 18:13:21,R2059,twenty two,female,Kolkata,Freelancer,3000-4000,"Ethnic, Athleisure, Formal","Red, Denim blue",Instagram shops,Street style,22,4,Maybe
+01/09/2025 18:26:38,R2804,22 yrs,non-binary,Delhi,Student,₹8000,Athleisure,"Earthy tones, Black",Ajio,Instagram,1,4,Y
+10/09/2025 17:49:32,R2847,22,prefer not to say,Bengaluru,Homemaker,,"Minimalist, Y2K","Earthy tones, Red, White",Brand store,Magazines,17,5,N
+13/09/2025 10:49:10,R2478,28,Non-binary,Pune,Working professional,8000,"Boho, Streetwear, Vintage","White, Pastels",Brand store,Celebrities,18,3,N
+31/08/2025 11:51:57,R2597,22,Non-binary, Delhi ,Entrepreneur,₹10000,"Streetwear, Y2K",Earthy tones,Local market,YouTube,16,5,Yes
+10/09/2025 12:22:32,R2875,44,Non-binary,Patna,Homemaker,3000,"Streetwear, Formal",White,Local market,Pinterest,12,5,N
+02/08/2025 21:26:24,R2499,25,Male,Pune,Entrepreneur,,"Minimalist, Y2K, Formal","Red, Pastels",Amazon,Pinterest,22,,Maybe
+18/08/2025 22:27:43,R2181,35,Non-binary,Bengaluru,Homemaker,10000,Streetwear,White,Local market,Celebrities,13,4,No
+23/09/2025 11:29:20,R2081,40,Female,Patna,Freelancer,8000,"Streetwear, Athleisure, Minimalist",Earthy tones,Meesho,YouTube,22,2,No
+12/08/2025 15:37:35,R2466,28,female,BENGALURU,Student,1000-2000,"Y2K, Formal","White, Red",Myntra,Celebrities,,4,N
+04/08/2025 11:19:49,R2711,,Female,Delhi,Entrepreneur,1000,"Ethnic, Y2K","Red, Beige, Pastels",Amazon,YouTube,9,,Y
+27/08/2025 12:16:45,R2749,30,non-binary,Mumbai,Freelancer,₹1000,Vintage,"Pastels, White",Local market,YouTube,5,4,N
+15/09/2025 16:11:39,R2743,20,Non-binary,Mumbai,Working professional,5000,"Minimalist, Streetwear, Y2K","Beige, Black",Instagram shops,Pinterest,7,4,Yes
+26/08/2025 9:53:40,R2198,40,Prefer not to say,Kolkata,Student,₹1000,"Minimalist, Formal, Streetwear","Pastels, Beige",Brand store,Pinterest,,,N
+02/09/2025 9:24:23,R2323,21,Female,Kolkata,Freelancer,5000,"Y2K, Formal","Denim blue, Earthy tones",Meesho,Magazines,18,1,No
+29/08/2025 12:52:14,R2279,150,Non-binary,Mumbai,Freelancer,5000,"Streetwear, Vintage","Earthy tones, Red, Denim blue",Ajio,YouTube,9,5,Maybe
+23/08/2025 11:47:20,R2331,24,Male,Mumbai,Freelancer,1k,"Boho, Y2K, Formal","Red, Earthy tones, Black",Amazon,Friends,,,No
+25/09/2025 19:20:41,R2865,17,Male,Kolkata,Working professional,₹2000,Athleisure,"Earthy tones, Neon",Amazon,Pinterest,,1,No
+05/09/2025 12:31:58,R2190,34,Male,Mumbai,Freelancer,10000,"Minimalist, Boho, Vintage",Black,Instagram shops,YouTube,13,1,Maybe
+22/09/2025 17:17:36,R2534,36,female,Lucknow,Working professional,2000,"Vintage, Boho",Red,Ajio,Pinterest,6,4,Y
+11/09/2025 12:23:32,R2222,27,F,Lucknow,Freelancer,10000,"Formal, Athleisure",Neon,Brand store,Celebrities,3,4,No
+28/09/2025 14:49:57,R2114,25,Female,mumbai,Student,10000,Boho,White,Local market,Magazines,20,3,Maybe
+29/09/2025 20:28:54,R2151,27,Prefer not to say,Kolkata,Working professional,₹2000,"Streetwear, Vintage",Red,Amazon,Magazines,19,1,Maybe
+23/08/2025 14:41:37,R2460,24,Non-binary,Kolkata,Student,2000,"Ethnic, Streetwear, Minimalist",Black,Myntra,Magazines,18,1,Y
+06/08/2025 8:19:38,R2688,34,Male,Hyderabad,Entrepreneur,10000,"Athleisure, Boho, Streetwear",Earthy tones,Instagram shops,Pinterest,12,1,Y
+25/08/2025 20:53:29,R2187,28,Female,Delhi,Freelancer,1000,"Minimalist, Vintage","Pastels, White, Denim blue",Brand store,Celebrities,8,2,Yes
+25/09/2025 14:32:14,R2073,34,Female,Lucknow,Working professional,3k,Ethnic,"White, Denim blue",Amazon,Friends,,5,No
+26/09/2025 21:32:18,R2729,23,M, Lucknow ,Homemaker,10000,Streetwear,"Beige, Earthy tones, Red",Myntra,Street style,15,4,No
+28/08/2025 9:33:52,R2240,30,Male,Kolkata,Working professional,3000,Streetwear,"Pastels, Neon",Instagram shops,Friends,11,3,Y
+12/09/2025 21:27:30,R2145,23,Prefer not to say,Lucknow,Working professional,15000,Streetwear,"Earthy tones, White",Local market,Street style,24,3,Maybe
+13/08/2025 17:30:41,R2562,43,Non-binary,HYDERABAD,Working professional,10000,Ethnic,White,Ajio,Instagram,10,5,Y
+03/09/2025 15:32:36,R2255,40,Female,Mumbai,Working professional,15000,"Formal, Minimalist","Denim blue, White",Myntra,Street style,13,4,Yes
+19/09/2025 9:50:27,R2095,17,Female,Patna,Working professional,15000,"Boho, Vintage, Ethnic","Beige, Denim blue",Amazon,Friends,9,1,Yes
+20/08/2025 17:42:15,R2610,39,Prefer not to say,Delhi,Freelancer,3000,Minimalist,Pastels,Instagram shops,Instagram,8,2,yes
+04/08/2025 18:39:55,R2719,N/A,non-binary,Pune,Working professional,1000,Formal,Neon,Ajio,Celebrities,19,4,Yes
+16/09/2025 11:34:45,R2371,35,Prefer not to say,Bengaluru,Homemaker,2000,Vintage,"White, Denim blue, Beige",Myntra,YouTube,24,5,No
+16/08/2025 9:46:46,R2370,24,Prefer not to say,Lucknow,Homemaker,₹2000,"Y2K, Athleisure","Neon, Black, Red",Amazon,Instagram,12,,No
+16/09/2025 21:52:10,R2515,,Non-binary,Kolkata,Entrepreneur,1000,Formal,Earthy tones,Local market,Street style,14,2,No
+15/08/2025 22:11:40,R2412,18,Prefer not to say,Mumbai,Freelancer,1000,Formal,"White, Neon",Meesho,YouTube,11,3,yes
+03/08/2025 20:30:47,R2493,29,Male,bengaluru,Homemaker,15000,Y2K,White,Instagram shops,Celebrities,7,5,Yes
+08/08/2025 18:44:10,R2638,38,Prefer not to say,Mumbai,Freelancer,5000,Formal,"White, Neon, Black",Myntra,Instagram,14,,yes
+13/08/2025 21:23:29,R2800,38,Non-binary,Lucknow,Working professional,2000,"Boho, Minimalist",Denim blue,Myntra,Celebrities,14,4,No
+11/09/2025 17:39:29,R2161,26,Male,Kolkata,Homemaker,5000,"Streetwear, Minimalist, Boho","Earthy tones, Denim blue, Beige",Instagram shops,Magazines,14,,N
+24/09/2025 16:15:44,R2426,26,Non-binary,Patna,Student,5000,Y2K,"Black, Pastels",Meesho,Friends,2,,No
+09/09/2025 18:32:33,R2243,29,Female,Kolkata,Student,₹2000,Vintage,White,Local market,Pinterest,17,3,Yes
+21/09/2025 9:43:21,R2680,28,Female,Patna,Homemaker,10000,Vintage,"Denim blue, Beige",Brand store,Instagram,22,3,Y
+11/08/2025 8:34:37,R2416,,Prefer not to say,Delhi,Entrepreneur,5000,"Boho, Y2K","White, Earthy tones",Local market,Magazines,16,4,No
+14/08/2025 11:55:24,R2343,19,prefer not to say,Lucknow,Freelancer,1000,"Ethnic, Streetwear",White,Amazon,Celebrities,14,5,Yes
+24/08/2025 22:33:42,R2322,,Non-binary,patna,Freelancer,15000,"Boho, Athleisure","Black, Red, Earthy tones",Local market,Magazines,,,Y
+21/09/2025 16:14:29,R2561,38,Male,Lucknow,Freelancer,3000,"Ethnic, Minimalist, Athleisure",Black,Brand store,Friends,4,4,No
+24/09/2025 17:26:19,R2648,39,Prefer not to say,Lucknow,Working professional,,Ethnic,"Beige, Denim blue",Myntra,Friends,5,4,N
+11/08/2025 21:35:10,R2030,41,M,Delhi,Freelancer,5k,"Vintage, Minimalist","Red, Neon, Black",Brand store,Street style,20,3,Yes
+03/08/2025 11:37:37,R2373,41,Prefer not to say,Delhi,Student,15000,"Y2K, Formal","Neon, Red, White",Local market,Pinterest,12,1,Yes
+14/08/2025 8:58:23,R2633,,Prefer not to say,BENGALURU,Student,10000,"Athleisure, Minimalist, Ethnic","Earthy tones, Black",Brand store,YouTube,11,5,Y
+05/09/2025 11:42:48,R2706,17,Female,Delhi,Student,2000,Athleisure,"Red, Black",Amazon,Friends,11,3,yes
+29/09/2025 17:38:25,R2056,30,Male,Patna,Working professional,2000,"Athleisure, Minimalist",Red,Ajio,YouTube,18,1,No
+02/08/2025 19:18:57,R2486,26,Prefer not to say,DELHI,Homemaker,5000,"Ethnic, Minimalist, Athleisure","Denim blue, Neon",Instagram shops,Magazines,5,2,N
+14/08/2025 10:39:21,R2509,26,Female,Bengaluru,Student,10000,"Y2K, Vintage",Denim blue,Myntra,Pinterest,21,5,Yes
+22/08/2025 13:40:55,R2422,25,Female,Patna,Working professional,1000,"Boho, Minimalist, Ethnic",Pastels,Local market,Street style,24,3,No
+09/09/2025 18:48:57,R2713,44,Prefer not to say,kolkata,Homemaker,5000-6000,"Athleisure, Ethnic","Black, Denim blue, Beige",Brand store,Pinterest,,4,yes
+21/09/2025 21:46:56,R2149,18,Female,Patna,Freelancer,15000,Y2K,Beige,Myntra,Pinterest,17,,Maybe
+04/08/2025 17:27:21,R2533,38,Male,KOLKATA,Homemaker,15000,"Y2K, Athleisure, Boho","Black, Earthy tones, Beige",Amazon,YouTube,22,3,N
+31/08/2025 22:13:39,R2183,43,Non-binary,PUNE,Homemaker,2000,Ethnic,Red,Meesho,Instagram,15,,N
+03/08/2025 14:11:48,R2000,19,Non-binary,Kolkata,Entrepreneur,₹1000,Athleisure,Neon,Ajio,Friends,22,2,Yes
+16/09/2025 20:16:24,R2387,18,Prefer not to say,Mumbai,Entrepreneur,3000,Vintage,"White, Beige, Denim blue",Amazon,YouTube,16,4,Yes
+07/08/2025 10:46:26,R2564,22 yrs,Prefer not to say,Delhi,Homemaker,10000,Ethnic,Neon,Brand store,Friends,9,3,yes
+21/09/2025 19:55:21,R2126,22,Male,hyderabad,Homemaker,1000,Ethnic,"Black, Neon, Red",Brand store,Magazines,6,4,Maybe
+19/09/2025 19:29:57,R2294,34,Female,PATNA,Homemaker,2000,Boho,White,Meesho,Friends,21,2,Y
+10/08/2025 15:41:31,R2044,27,Female,Delhi,Entrepreneur,3000,"Y2K, Boho, Minimalist","White, Earthy tones, Black",Instagram shops,Friends,6,3,N
+15/08/2025 12:13:58,R2676,32,Female,Hyderabad,Student,1000,Formal,"Beige, White",Amazon,Friends,17,3,N
+02/09/2025 13:50:47,R2872,,Male,Bengaluru,Student,8000,"Athleisure, Formal, Streetwear","White, Earthy tones, Black",Brand store,Pinterest,13,3,Yes
+25/08/2025 14:52:34,R2313,37,Prefer not to say,Kolkata,Freelancer,1000,Ethnic,"Black, Earthy tones",Ajio,Pinterest,19,2,N
+10/08/2025 11:53:31,R2823,5,Prefer not to say,Delhi,Working professional,2000,Vintage,"Beige, Pastels, Neon",Local market,Celebrities,22,5,Y
+24/08/2025 11:53:40,R2606,40,female,pune,Entrepreneur,3000,Athleisure,Earthy tones,Brand store,Instagram,3,4,No
+04/09/2025 10:10:29,R2109,35,Non-binary,Delhi,Entrepreneur,₹3000,Boho,"Pastels, Beige, Black",Local market,Friends,10,4,Y
+16/08/2025 21:17:50,R2871,20,Non-binary,Pune,Freelancer,1000,Vintage,Earthy tones,Local market,Pinterest,,2,Yes
+24/08/2025 16:29:20,R2764,26,F,DELHI,Homemaker,2000,"Vintage, Y2K","Pastels, Beige",Local market,Pinterest,2,,No
+17/08/2025 16:41:30,R2058,42,prefer not to say,Bengaluru,Homemaker,3000,Formal,"Red, Neon, Beige",Brand store,Friends,4,5,Yes
+01/09/2025 13:32:11,R2393,23,Prefer not to say,PUNE,Homemaker,15000,"Boho, Ethnic, Minimalist","Neon, Red",Meesho,YouTube,11,1,N
+12/09/2025 20:13:56,R2818,41,Male,Delhi,Entrepreneur,10000-11000,"Ethnic, Streetwear, Minimalist","White, Red",Instagram shops,Celebrities,7,2,Yes
+26/09/2025 10:55:19,R2456,-3,M,Patna,Freelancer,8000,"Minimalist, Boho, Vintage","Pastels, Earthy tones",Local market,Instagram,20,2,Yes
+03/08/2025 19:19:57,R2599,22,male,KOLKATA,Freelancer,8000,"Boho, Y2K","Pastels, Denim blue, White",Amazon,Pinterest,,5,Yes
+24/08/2025 8:39:44,R2360,,non-binary,Delhi,Entrepreneur,3000,"Y2K, Streetwear, Boho","Pastels, Black, Neon",Brand store,Magazines,,2,Yes
+15/09/2025 8:12:45,R2897,20,Prefer not to say,Hyderabad,Homemaker,1000,"Athleisure, Boho, Minimalist",Earthy tones,Instagram shops,Friends,15,5,N
+19/09/2025 9:20:57,R2709,38,Non-binary,Delhi,Student,10000,"Boho, Formal",Pastels,Amazon,Celebrities,2,5,Yes
+07/08/2025 13:28:51,R2439,43,non-binary, Kolkata ,Student,3k,"Y2K, Minimalist, Formal",White,Local market,Friends,7,4,No
+10/08/2025 15:15:23,R2174,26,Male,Patna,Entrepreneur,8000,Boho,"Black, Red",Ajio,Pinterest,13,,Yes
+04/08/2025 19:45:50,R2122,21,male,Bengaluru,Working professional,1000-2000,Athleisure,"Beige, Earthy tones",Meesho,Magazines,,2,yes
